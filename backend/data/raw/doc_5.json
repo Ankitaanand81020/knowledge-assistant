@@ -1,0 +1,11 @@
+{
+  "title": "Deployment & Release Process",
+  "content": "Release & Deployment Workflow:\n\n1. Code Review:\n   - Create feature branch: git checkout -b feature/name\n   - Create pull request\n   - Require 2 approvals\n   - Pass CI/CD checks\n\n2. Testing:\n   - Unit tests: npm run test (frontend) / pytest (backend)\n   - Integration tests: npm run test:integration\n   - E2E tests: npm run test:e2e (staging only)\n   - Coverage target: 80%+\n\n3. Staging Deployment:\n   - Tag: git tag v1.2.3\n   - Push: git push origin v1.2.3\n   - Auto-deploys to staging\n   - Run smoke tests\n\n4. Production Deployment:\n   - Merge to main branch\n   - Create release notes\n   - Deploy during maintenance window (Sundays 2-4 AM UTC)\n   - Monitor logs & metrics for 1 hour\n\n5. Rollback:\n   - If critical error: git revert & push\n   - Message on #deployments channel\n   - Post-mortem within 24 hours\n\nCommit message format:\n- feat(auth): Add OAuth login\n- fix(api): Handle null responses\n- docs(readme): Update setup steps\n- test(user): Add 15 new test cases",
+  "tags": [
+    "deployment",
+    "devops",
+    "process"
+  ],
+  "type": "sop",
+  "date": "2024-01-20"
+}

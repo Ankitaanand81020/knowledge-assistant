@@ -1,0 +1,3425 @@
+{
+  "queries": [
+    {
+      "timestamp": "2026-06-21T15:19:37.176342",
+      "question": "what is ai?",
+      "answer": "The provided context does not contain any information about what AI (Artificial Intelligence) is. The content discusses teams and their members, a directory of contacts and team locations, an architec",
+      "latency_ms": 36924.89,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "doc_8.json",
+        "doc_8.md",
+        "doc_7.md",
+        "doc_2.md",
+        "doc_1.md"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "doc_8.json",
+          "text": "Engineering Team: - Alice Johnson (CTO): alice.johnson@company.com | Slack: @alice - Bob Smith (Back"
+        },
+        {
+          "id": 1,
+          "source": "doc_8.md",
+          "text": "Team Directory & Contact Info Type: reference Tags: team, contact, directory Date: 2024-03-01 --- En"
+        },
+        {
+          "id": 2,
+          "source": "doc_7.md",
+          "text": "Architecture Overview & System Design Type: technical Tags: architecture, system-design, technical D"
+        },
+        {
+          "id": 3,
+          "source": "doc_2.md",
+          "text": "Onboarding Checklist & First 30 Days Type: sop Tags: onboarding, new-hire Date: 2024-02-01 --- Day 1"
+        },
+        {
+          "id": 4,
+          "source": "doc_1.md",
+          "text": "Remote Work & Flexible Hours Policy Type: policy Tags: hr, policy, remote Date: 2024-03-20 --- Flexi"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-21T15:22:47.353135",
+      "question": "what is ai?",
+      "answer": "AI stands for Artificial Intelligence. It refers to the development of computer systems that can perform tasks requiring human intelligence and knowledge without explicit instructions. AI encompasses ",
+      "latency_ms": 29386.33,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "doc_8.json",
+        "doc_8.md",
+        "doc_7.md",
+        "doc_2.md",
+        "doc_1.md"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "doc_8.json",
+          "text": "Engineering Team: - Alice Johnson (CTO): alice.johnson@company.com | Slack: @alice - Bob Smith (Back"
+        },
+        {
+          "id": 1,
+          "source": "doc_8.md",
+          "text": "Team Directory & Contact Info Type: reference Tags: team, contact, directory Date: 2024-03-01 --- En"
+        },
+        {
+          "id": 2,
+          "source": "doc_7.md",
+          "text": "Architecture Overview & System Design Type: technical Tags: architecture, system-design, technical D"
+        },
+        {
+          "id": 3,
+          "source": "doc_2.md",
+          "text": "Onboarding Checklist & First 30 Days Type: sop Tags: onboarding, new-hire Date: 2024-02-01 --- Day 1"
+        },
+        {
+          "id": 4,
+          "source": "doc_1.md",
+          "text": "Remote Work & Flexible Hours Policy Type: policy Tags: hr, policy, remote Date: 2024-03-20 --- Flexi"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-21T15:23:46.073423",
+      "question": "what is macine learning?",
+      "answer": "Machine Learning (ML) is a branch of artificial intelligence that focuses on the development of algorithms and models for computers to learn from data without being explicitly programmed. ML allows ma",
+      "latency_ms": 25732.14,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "doc_2.json",
+        "doc_2.md",
+        "doc_7.md",
+        "doc_7.json",
+        "doc_5.json"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "doc_2.json",
+          "text": "Day 1 (Monday): - HR welcome meeting at 9 AM - Laptop & equipment setup - Building access card setup"
+        },
+        {
+          "id": 1,
+          "source": "doc_2.md",
+          "text": "Onboarding Checklist & First 30 Days Type: sop Tags: onboarding, new-hire Date: 2024-02-01 --- Day 1"
+        },
+        {
+          "id": 2,
+          "source": "doc_7.md",
+          "text": "Architecture Overview & System Design Type: technical Tags: architecture, system-design, technical D"
+        },
+        {
+          "id": 3,
+          "source": "doc_7.json",
+          "text": "High-level Architecture: Frontend (React + Next.js): - Static site generation (SSG) for public pages"
+        },
+        {
+          "id": 4,
+          "source": "doc_5.json",
+          "text": "Release & Deployment Workflow: 1. Code Review: - Create feature branch: git checkout -b feature/name"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-21T15:41:21.919666",
+      "question": "what is ai?",
+      "answer": "I don't have enough context provided for me to accurately define AI (Artificial Intelligence). The given information does not discuss or explain what Artificial Intelligence is. Therefore, I can only ",
+      "latency_ms": 36330.38,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "doc_8.json",
+        "doc_8.md",
+        "doc_7.md",
+        "doc_2.md",
+        "doc_1.md"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "doc_8.json",
+          "text": "Engineering Team: - Alice Johnson (CTO): alice.johnson@company.com | Slack: @alice - Bob Smith (Back"
+        },
+        {
+          "id": 1,
+          "source": "doc_8.md",
+          "text": "Team Directory & Contact Info Type: reference Tags: team, contact, directory Date: 2024-03-01 --- En"
+        },
+        {
+          "id": 2,
+          "source": "doc_7.md",
+          "text": "Architecture Overview & System Design Type: technical Tags: architecture, system-design, technical D"
+        },
+        {
+          "id": 3,
+          "source": "doc_2.md",
+          "text": "Onboarding Checklist & First 30 Days Type: sop Tags: onboarding, new-hire Date: 2024-02-01 --- Day 1"
+        },
+        {
+          "id": 4,
+          "source": "doc_1.md",
+          "text": "Remote Work & Flexible Hours Policy Type: policy Tags: hr, policy, remote Date: 2024-03-20 --- Flexi"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-21T15:53:26.642264",
+      "question": "what is ai?",
+      "answer": "I don't know what AI (Artificial Intelligence) is. I can provide context about the engineering team at a company and how it operates but cannot define or explain the concept of artificial intelligence",
+      "latency_ms": 30970.38,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "doc_8.json",
+        "doc_8.md",
+        "doc_7.md",
+        "doc_2.md",
+        "doc_1.md"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "doc_8.json",
+          "text": "Engineering Team: - Alice Johnson (CTO): alice.johnson@company.com | Slack: @alice - Bob Smith (Back"
+        },
+        {
+          "id": 1,
+          "source": "doc_8.md",
+          "text": "Team Directory & Contact Info Type: reference Tags: team, contact, directory Date: 2024-03-01 --- En"
+        },
+        {
+          "id": 2,
+          "source": "doc_7.md",
+          "text": "Architecture Overview & System Design Type: technical Tags: architecture, system-design, technical D"
+        },
+        {
+          "id": 3,
+          "source": "doc_2.md",
+          "text": "Onboarding Checklist & First 30 Days Type: sop Tags: onboarding, new-hire Date: 2024-02-01 --- Day 1"
+        },
+        {
+          "id": 4,
+          "source": "doc_1.md",
+          "text": "Remote Work & Flexible Hours Policy Type: policy Tags: hr, policy, remote Date: 2024-03-20 --- Flexi"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-21T15:57:24.295330",
+      "question": "what is ai?",
+      "answer": "I don't know. The provided text does not contain information about what AI (Artificial Intelligence) is. It contains details about team directories, contact info, technology architecture overview, an ",
+      "latency_ms": 9486.62,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "doc_8.json",
+        "doc_8.md",
+        "doc_7.md",
+        "doc_2.md",
+        "doc_1.md"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "doc_8.json",
+          "text": "Engineering Team: - Alice Johnson (CTO): alice.johnson@company.com | Slack: @alice - Bob Smith (Back"
+        },
+        {
+          "id": 1,
+          "source": "doc_8.md",
+          "text": "Team Directory & Contact Info Type: reference Tags: team, contact, directory Date: 2024-03-01 --- En"
+        },
+        {
+          "id": 2,
+          "source": "doc_7.md",
+          "text": "Architecture Overview & System Design Type: technical Tags: architecture, system-design, technical D"
+        },
+        {
+          "id": 3,
+          "source": "doc_2.md",
+          "text": "Onboarding Checklist & First 30 Days Type: sop Tags: onboarding, new-hire Date: 2024-02-01 --- Day 1"
+        },
+        {
+          "id": 4,
+          "source": "doc_1.md",
+          "text": "Remote Work & Flexible Hours Policy Type: policy Tags: hr, policy, remote Date: 2024-03-20 --- Flexi"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-21T15:59:07.301541",
+      "question": "what is ai?",
+      "answer": "I don't have any knowledge about what AI (Artificial Intelligence) is. I can provide information or answer questions related to the given context but not define what AI actually means. To get a defini",
+      "latency_ms": 6104.52,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "doc_8.json",
+        "doc_8.md",
+        "doc_7.md",
+        "doc_2.md",
+        "doc_1.md"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "doc_8.json",
+          "text": "Engineering Team: - Alice Johnson (CTO): alice.johnson@company.com | Slack: @alice - Bob Smith (Back"
+        },
+        {
+          "id": 1,
+          "source": "doc_8.md",
+          "text": "Team Directory & Contact Info Type: reference Tags: team, contact, directory Date: 2024-03-01 --- En"
+        },
+        {
+          "id": 2,
+          "source": "doc_7.md",
+          "text": "Architecture Overview & System Design Type: technical Tags: architecture, system-design, technical D"
+        },
+        {
+          "id": 3,
+          "source": "doc_2.md",
+          "text": "Onboarding Checklist & First 30 Days Type: sop Tags: onboarding, new-hire Date: 2024-02-01 --- Day 1"
+        },
+        {
+          "id": 4,
+          "source": "doc_1.md",
+          "text": "Remote Work & Flexible Hours Policy Type: policy Tags: hr, policy, remote Date: 2024-03-20 --- Flexi"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-21T16:01:02.990950",
+      "question": "what is ai?",
+      "answer": "I don't have a direct quote from the context about what AI (Artificial Intelligence) is. However, I can provide general information based on my knowledge.\n\nAI refers to the development of computer sys",
+      "latency_ms": 19429.25,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "doc_8.json",
+        "doc_8.md",
+        "doc_7.md",
+        "doc_2.md",
+        "doc_1.md"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "doc_8.json",
+          "text": "Engineering Team: - Alice Johnson (CTO): alice.johnson@company.com | Slack: @alice - Bob Smith (Back"
+        },
+        {
+          "id": 1,
+          "source": "doc_8.md",
+          "text": "Team Directory & Contact Info Type: reference Tags: team, contact, directory Date: 2024-03-01 --- En"
+        },
+        {
+          "id": 2,
+          "source": "doc_7.md",
+          "text": "Architecture Overview & System Design Type: technical Tags: architecture, system-design, technical D"
+        },
+        {
+          "id": 3,
+          "source": "doc_2.md",
+          "text": "Onboarding Checklist & First 30 Days Type: sop Tags: onboarding, new-hire Date: 2024-02-01 --- Day 1"
+        },
+        {
+          "id": 4,
+          "source": "doc_1.md",
+          "text": "Remote Work & Flexible Hours Policy Type: policy Tags: hr, policy, remote Date: 2024-03-20 --- Flexi"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-21T16:02:13.574670",
+      "question": "what is ai?",
+      "answer": "I do not know what AI (Artificial Intelligence) specifically refers to without additional context. However, I can provide general information about the topic of artificial intelligence:\n\nAI involves s",
+      "latency_ms": 20555.96,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "doc_8.json",
+        "doc_8.md",
+        "doc_7.md",
+        "doc_2.md",
+        "doc_1.md"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "doc_8.json",
+          "text": "Engineering Team: - Alice Johnson (CTO): alice.johnson@company.com | Slack: @alice - Bob Smith (Back"
+        },
+        {
+          "id": 1,
+          "source": "doc_8.md",
+          "text": "Team Directory & Contact Info Type: reference Tags: team, contact, directory Date: 2024-03-01 --- En"
+        },
+        {
+          "id": 2,
+          "source": "doc_7.md",
+          "text": "Architecture Overview & System Design Type: technical Tags: architecture, system-design, technical D"
+        },
+        {
+          "id": 3,
+          "source": "doc_2.md",
+          "text": "Onboarding Checklist & First 30 Days Type: sop Tags: onboarding, new-hire Date: 2024-02-01 --- Day 1"
+        },
+        {
+          "id": 4,
+          "source": "doc_1.md",
+          "text": "Remote Work & Flexible Hours Policy Type: policy Tags: hr, policy, remote Date: 2024-03-20 --- Flexi"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-21T16:02:37.664022",
+      "question": "what is ai?",
+      "answer": "I don't know the answer to the question \"What is AI?\" because it wasn't asked. The provided context discusses various aspects of a company's engineering team and organizational structure but does not ",
+      "latency_ms": 7255.39,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "doc_8.json",
+        "doc_8.md",
+        "doc_7.md",
+        "doc_2.md",
+        "doc_1.md"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "doc_8.json",
+          "text": "Engineering Team: - Alice Johnson (CTO): alice.johnson@company.com | Slack: @alice - Bob Smith (Back"
+        },
+        {
+          "id": 1,
+          "source": "doc_8.md",
+          "text": "Team Directory & Contact Info Type: reference Tags: team, contact, directory Date: 2024-03-01 --- En"
+        },
+        {
+          "id": 2,
+          "source": "doc_7.md",
+          "text": "Architecture Overview & System Design Type: technical Tags: architecture, system-design, technical D"
+        },
+        {
+          "id": 3,
+          "source": "doc_2.md",
+          "text": "Onboarding Checklist & First 30 Days Type: sop Tags: onboarding, new-hire Date: 2024-02-01 --- Day 1"
+        },
+        {
+          "id": 4,
+          "source": "doc_1.md",
+          "text": "Remote Work & Flexible Hours Policy Type: policy Tags: hr, policy, remote Date: 2024-03-20 --- Flexi"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-21T16:06:20.308552",
+      "question": "what is ai?",
+      "answer": "Artificial Intelligence (AI) refers to the development and application of computer systems that can perform tasks requiring human intelligence. This includes understanding natural language, recognizin",
+      "latency_ms": 34202.4,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "doc_8.json",
+        "doc_8.md",
+        "doc_7.md",
+        "doc_2.md",
+        "doc_1.md"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "doc_8.json",
+          "text": "Engineering Team: - Alice Johnson (CTO): alice.johnson@company.com | Slack: @alice - Bob Smith (Back"
+        },
+        {
+          "id": 1,
+          "source": "doc_8.md",
+          "text": "Team Directory & Contact Info Type: reference Tags: team, contact, directory Date: 2024-03-01 --- En"
+        },
+        {
+          "id": 2,
+          "source": "doc_7.md",
+          "text": "Architecture Overview & System Design Type: technical Tags: architecture, system-design, technical D"
+        },
+        {
+          "id": 3,
+          "source": "doc_2.md",
+          "text": "Onboarding Checklist & First 30 Days Type: sop Tags: onboarding, new-hire Date: 2024-02-01 --- Day 1"
+        },
+        {
+          "id": 4,
+          "source": "doc_1.md",
+          "text": "Remote Work & Flexible Hours Policy Type: policy Tags: hr, policy, remote Date: 2024-03-20 --- Flexi"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-21T18:41:26.831000",
+      "question": "what is this file about?",
+      "answer": "This file provides a detailed description of various processes, procedures, and tools used by an organization to manage its engineering teams, support services, deployments, and infrastructure. It inc",
+      "latency_ms": 39344.78,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "doc_8.md",
+        "doc_6.md",
+        "doc_5.md",
+        "doc_2.json",
+        "doc_6.json"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "doc_8.md",
+          "text": "Team Directory & Contact Info Type: reference Tags: team, contact, directory Date: 2024-03-01 --- En"
+        },
+        {
+          "id": 1,
+          "source": "doc_6.md",
+          "text": "Common Questions & Troubleshooting Type: faq Tags: faq, troubleshooting, support Date: 2024-03-10 --"
+        },
+        {
+          "id": 2,
+          "source": "doc_5.md",
+          "text": "Deployment & Release Process Type: sop Tags: deployment, devops, process Date: 2024-01-20 --- Releas"
+        },
+        {
+          "id": 3,
+          "source": "doc_2.json",
+          "text": "Day 1 (Monday): - HR welcome meeting at 9 AM - Laptop & equipment setup - Building access card setup"
+        },
+        {
+          "id": 4,
+          "source": "doc_6.json",
+          "text": "Q: How do I reset my password? A: Visit https://dashboard.company.com/reset-password or contact IT s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-21T23:57:05.841898",
+      "question": "what is ai?",
+      "answer": "Artificial Intelligence (AI) refers to the simulation of human intelligence processes by machines, especially computer systems. This includes learning, reasoning, and self-correction. AI encompasses a",
+      "latency_ms": 50192.5,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "doc_8.json",
+        "doc_8.md",
+        "doc_7.md",
+        "doc_2.md",
+        "doc_1.md"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "doc_8.json",
+          "text": "Engineering Team: - Alice Johnson (CTO): alice.johnson@company.com | Slack: @alice - Bob Smith (Back"
+        },
+        {
+          "id": 1,
+          "source": "doc_8.md",
+          "text": "Team Directory & Contact Info Type: reference Tags: team, contact, directory Date: 2024-03-01 --- En"
+        },
+        {
+          "id": 2,
+          "source": "doc_7.md",
+          "text": "Architecture Overview & System Design Type: technical Tags: architecture, system-design, technical D"
+        },
+        {
+          "id": 3,
+          "source": "doc_2.md",
+          "text": "Onboarding Checklist & First 30 Days Type: sop Tags: onboarding, new-hire Date: 2024-02-01 --- Day 1"
+        },
+        {
+          "id": 4,
+          "source": "doc_1.md",
+          "text": "Remote Work & Flexible Hours Policy Type: policy Tags: hr, policy, remote Date: 2024-03-20 --- Flexi"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T00:00:02.878482",
+      "question": "what is ai?",
+      "answer": "AI stands for Artificial Intelligence. It refers to the development of computer systems that can perform tasks requiring human intelligence, such as visual perception, speech recognition, decision-mak",
+      "latency_ms": 16273.66,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "doc_8.json",
+        "doc_8.md",
+        "doc_7.md",
+        "doc_2.md",
+        "doc_1.md"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "doc_8.json",
+          "text": "Engineering Team: - Alice Johnson (CTO): alice.johnson@company.com | Slack: @alice - Bob Smith (Back"
+        },
+        {
+          "id": 1,
+          "source": "doc_8.md",
+          "text": "Team Directory & Contact Info Type: reference Tags: team, contact, directory Date: 2024-03-01 --- En"
+        },
+        {
+          "id": 2,
+          "source": "doc_7.md",
+          "text": "Architecture Overview & System Design Type: technical Tags: architecture, system-design, technical D"
+        },
+        {
+          "id": 3,
+          "source": "doc_2.md",
+          "text": "Onboarding Checklist & First 30 Days Type: sop Tags: onboarding, new-hire Date: 2024-02-01 --- Day 1"
+        },
+        {
+          "id": 4,
+          "source": "doc_1.md",
+          "text": "Remote Work & Flexible Hours Policy Type: policy Tags: hr, policy, remote Date: 2024-03-20 --- Flexi"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T00:02:33.143344",
+      "question": "what is machine learning?",
+      "answer": "ERROR: ",
+      "latency_ms": 70058.27,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "doc_2.json",
+        "doc_2.md",
+        "doc_8.json",
+        "doc_1.md",
+        "doc_7.md"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "doc_2.json",
+          "text": "Day 1 (Monday): - HR welcome meeting at 9 AM - Laptop & equipment setup - Building access card setup"
+        },
+        {
+          "id": 1,
+          "source": "doc_2.md",
+          "text": "Onboarding Checklist & First 30 Days Type: sop Tags: onboarding, new-hire Date: 2024-02-01 --- Day 1"
+        },
+        {
+          "id": 2,
+          "source": "doc_8.json",
+          "text": "Engineering Team: - Alice Johnson (CTO): alice.johnson@company.com | Slack: @alice - Bob Smith (Back"
+        },
+        {
+          "id": 3,
+          "source": "doc_1.md",
+          "text": "Remote Work & Flexible Hours Policy Type: policy Tags: hr, policy, remote Date: 2024-03-20 --- Flexi"
+        },
+        {
+          "id": 4,
+          "source": "doc_7.md",
+          "text": "Architecture Overview & System Design Type: technical Tags: architecture, system-design, technical D"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T00:05:15.257069",
+      "question": "what is the full form of wto?",
+      "answer": "WTO stands for World Trade Organization.",
+      "latency_ms": 59205.62,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "doc_1.md",
+        "doc_1.json",
+        "doc_3.md",
+        "doc_2.json",
+        "doc_3.json"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "doc_1.md",
+          "text": "Remote Work & Flexible Hours Policy Type: policy Tags: hr, policy, remote Date: 2024-03-20 --- Flexi"
+        },
+        {
+          "id": 1,
+          "source": "doc_1.json",
+          "text": "Flexible work arrangements are encouraged: - Full-time remote work available on case-by-case basis -"
+        },
+        {
+          "id": 2,
+          "source": "doc_3.md",
+          "text": "Authentication & API Security Type: technical Tags: api, security, technical Date: 2024-01-10 --- AP"
+        },
+        {
+          "id": 3,
+          "source": "doc_2.json",
+          "text": "Day 1 (Monday): - HR welcome meeting at 9 AM - Laptop & equipment setup - Building access card setup"
+        },
+        {
+          "id": 4,
+          "source": "doc_3.json",
+          "text": "API Security Standards: 1. Authentication: - Use JWT tokens for API access - Token generation endpoi"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T00:06:23.996730",
+      "question": "what is wto is a bit",
+      "answer": "The term \"WTO\" stands for World Trade Organization. It's an international organization that regulates global trade between countries, promoting fair and open markets around the world.",
+      "latency_ms": 36789.15,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "doc_1.md",
+        "doc_1.json",
+        "doc_3.md",
+        "doc_8.json",
+        "doc_3.json"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "doc_1.md",
+          "text": "Remote Work & Flexible Hours Policy Type: policy Tags: hr, policy, remote Date: 2024-03-20 --- Flexi"
+        },
+        {
+          "id": 1,
+          "source": "doc_1.json",
+          "text": "Flexible work arrangements are encouraged: - Full-time remote work available on case-by-case basis -"
+        },
+        {
+          "id": 2,
+          "source": "doc_3.md",
+          "text": "Authentication & API Security Type: technical Tags: api, security, technical Date: 2024-01-10 --- AP"
+        },
+        {
+          "id": 3,
+          "source": "doc_8.json",
+          "text": "Engineering Team: - Alice Johnson (CTO): alice.johnson@company.com | Slack: @alice - Bob Smith (Back"
+        },
+        {
+          "id": 4,
+          "source": "doc_3.json",
+          "text": "API Security Standards: 1. Authentication: - Use JWT tokens for API access - Token generation endpoi"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T00:20:38.439479",
+      "question": "what is tata/",
+      "answer": "I'm sorry, but there seems to be a mistake in your question. You asked \"What is Tata?\" However, you didn't provide any context or additional information that would help me understand what aspect of Ta",
+      "latency_ms": 42229.57,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "doc_0.json",
+        "doc_6.json",
+        "doc_6.md",
+        "doc_8.md",
+        "doc_8.json"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "doc_0.json",
+          "text": "Our company provides comprehensive leave benefits: - Annual Leave: 24 paid days per year - Sick Leav"
+        },
+        {
+          "id": 1,
+          "source": "doc_6.json",
+          "text": "Q: How do I reset my password? A: Visit https://dashboard.company.com/reset-password or contact IT s"
+        },
+        {
+          "id": 2,
+          "source": "doc_6.md",
+          "text": "Common Questions & Troubleshooting Type: faq Tags: faq, troubleshooting, support Date: 2024-03-10 --"
+        },
+        {
+          "id": 3,
+          "source": "doc_8.md",
+          "text": "Team Directory & Contact Info Type: reference Tags: team, contact, directory Date: 2024-03-01 --- En"
+        },
+        {
+          "id": 4,
+          "source": "doc_8.json",
+          "text": "Engineering Team: - Alice Johnson (CTO): alice.johnson@company.com | Slack: @alice - Bob Smith (Back"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T00:24:53.464202",
+      "question": "what is machine learning?",
+      "answer": "Machine Learning is a branch of artificial intelligence focused on developing algorithms that enable systems to learn from and make predictions or decisions based on data, without being explicitly pro",
+      "latency_ms": 37602.52,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "doc_2.json",
+        "doc_2.md",
+        "doc_8.json",
+        "doc_1.md",
+        "doc_7.md"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "doc_2.json",
+          "text": "Day 1 (Monday): - HR welcome meeting at 9 AM - Laptop & equipment setup - Building access card setup"
+        },
+        {
+          "id": 1,
+          "source": "doc_2.md",
+          "text": "Onboarding Checklist & First 30 Days Type: sop Tags: onboarding, new-hire Date: 2024-02-01 --- Day 1"
+        },
+        {
+          "id": 2,
+          "source": "doc_8.json",
+          "text": "Engineering Team: - Alice Johnson (CTO): alice.johnson@company.com | Slack: @alice - Bob Smith (Back"
+        },
+        {
+          "id": 3,
+          "source": "doc_1.md",
+          "text": "Remote Work & Flexible Hours Policy Type: policy Tags: hr, policy, remote Date: 2024-03-20 --- Flexi"
+        },
+        {
+          "id": 4,
+          "source": "doc_7.md",
+          "text": "Architecture Overview & System Design Type: technical Tags: architecture, system-design, technical D"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T00:26:44.451594",
+      "question": "what is ai",
+      "answer": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn like humans. It encompasses various subfields including machine learning,",
+      "latency_ms": 27371.89,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "doc_8.json",
+        "doc_8.md",
+        "doc_7.md",
+        "doc_2.md",
+        "doc_1.md"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "doc_8.json",
+          "text": "Engineering Team: - Alice Johnson (CTO): alice.johnson@company.com | Slack: @alice - Bob Smith (Back"
+        },
+        {
+          "id": 1,
+          "source": "doc_8.md",
+          "text": "Team Directory & Contact Info Type: reference Tags: team, contact, directory Date: 2024-03-01 --- En"
+        },
+        {
+          "id": 2,
+          "source": "doc_7.md",
+          "text": "Architecture Overview & System Design Type: technical Tags: architecture, system-design, technical D"
+        },
+        {
+          "id": 3,
+          "source": "doc_2.md",
+          "text": "Onboarding Checklist & First 30 Days Type: sop Tags: onboarding, new-hire Date: 2024-02-01 --- Day 1"
+        },
+        {
+          "id": 4,
+          "source": "doc_1.md",
+          "text": "Remote Work & Flexible Hours Policy Type: policy Tags: hr, policy, remote Date: 2024-03-20 --- Flexi"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T00:27:57.400998",
+      "question": "what is this file about?",
+      "answer": "This file appears to be a directory and contact information for various departments within an organization, including engineering, product, design, support, finance, HR, IT, and general. It also provi",
+      "latency_ms": 29517.09,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "doc_8.md",
+        "doc_6.md",
+        "doc_5.md",
+        "doc_2.json",
+        "doc_6.json"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "doc_8.md",
+          "text": "Team Directory & Contact Info Type: reference Tags: team, contact, directory Date: 2024-03-01 --- En"
+        },
+        {
+          "id": 1,
+          "source": "doc_6.md",
+          "text": "Common Questions & Troubleshooting Type: faq Tags: faq, troubleshooting, support Date: 2024-03-10 --"
+        },
+        {
+          "id": 2,
+          "source": "doc_5.md",
+          "text": "Deployment & Release Process Type: sop Tags: deployment, devops, process Date: 2024-01-20 --- Releas"
+        },
+        {
+          "id": 3,
+          "source": "doc_2.json",
+          "text": "Day 1 (Monday): - HR welcome meeting at 9 AM - Laptop & equipment setup - Building access card setup"
+        },
+        {
+          "id": 4,
+          "source": "doc_6.json",
+          "text": "Q: How do I reset my password? A: Visit https://dashboard.company.com/reset-password or contact IT s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T00:29:29.678384",
+      "question": "what is this pdf about?",
+      "answer": "This PDF likely contains a guide or checklist for the first few weeks of new hires, including onboarding procedures and key milestones.",
+      "latency_ms": 24745.08,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "doc_2.json",
+        "doc_2.md",
+        "doc_1.md",
+        "doc_6.md",
+        "doc_6.json"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "doc_2.json",
+          "text": "Day 1 (Monday): - HR welcome meeting at 9 AM - Laptop & equipment setup - Building access card setup"
+        },
+        {
+          "id": 1,
+          "source": "doc_2.md",
+          "text": "Onboarding Checklist & First 30 Days Type: sop Tags: onboarding, new-hire Date: 2024-02-01 --- Day 1"
+        },
+        {
+          "id": 2,
+          "source": "doc_1.md",
+          "text": "Remote Work & Flexible Hours Policy Type: policy Tags: hr, policy, remote Date: 2024-03-20 --- Flexi"
+        },
+        {
+          "id": 3,
+          "source": "doc_6.md",
+          "text": "Common Questions & Troubleshooting Type: faq Tags: faq, troubleshooting, support Date: 2024-03-10 --"
+        },
+        {
+          "id": 4,
+          "source": "doc_6.json",
+          "text": "Q: How do I reset my password? A: Visit https://dashboard.company.com/reset-password or contact IT s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T00:31:39.976169",
+      "question": "What is AI",
+      "answer": "AI stands for Artificial Intelligence.",
+      "latency_ms": 8440.72,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "doc_8.json",
+        "doc_8.md",
+        "doc_7.md",
+        "doc_2.md",
+        "doc_1.md"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "doc_8.json",
+          "text": "Engineering Team: - Alice Johnson (CTO): alice.johnson@company.com | Slack: @alice - Bob Smith (Back"
+        },
+        {
+          "id": 1,
+          "source": "doc_8.md",
+          "text": "Team Directory & Contact Info Type: reference Tags: team, contact, directory Date: 2024-03-01 --- En"
+        },
+        {
+          "id": 2,
+          "source": "doc_7.md",
+          "text": "Architecture Overview & System Design Type: technical Tags: architecture, system-design, technical D"
+        },
+        {
+          "id": 3,
+          "source": "doc_2.md",
+          "text": "Onboarding Checklist & First 30 Days Type: sop Tags: onboarding, new-hire Date: 2024-02-01 --- Day 1"
+        },
+        {
+          "id": 4,
+          "source": "doc_1.md",
+          "text": "Remote Work & Flexible Hours Policy Type: policy Tags: hr, policy, remote Date: 2024-03-20 --- Flexi"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T00:55:07.192564",
+      "question": "What is the leave policy",
+      "answer": "The leave policy includes annual, sick, casual, maternity, paternity, and bereavement leaves. Leaves are non-transferable but must be taken in the fiscal year. Request leave through the HR portal at l",
+      "latency_ms": 34651.84,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "doc_0.md",
+        "doc_0.json",
+        "doc_1.md",
+        "doc_1.json",
+        "doc_2.json"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "doc_0.md",
+          "text": "Leave Policy & Guidelines Type: policy Tags: hr, policy, benefits Date: 2024-01-15 --- Our company p"
+        },
+        {
+          "id": 1,
+          "source": "doc_0.json",
+          "text": "Our company provides comprehensive leave benefits: - Annual Leave: 24 paid days per year - Sick Leav"
+        },
+        {
+          "id": 2,
+          "source": "doc_1.md",
+          "text": "Remote Work & Flexible Hours Policy Type: policy Tags: hr, policy, remote Date: 2024-03-20 --- Flexi"
+        },
+        {
+          "id": 3,
+          "source": "doc_1.json",
+          "text": "Flexible work arrangements are encouraged: - Full-time remote work available on case-by-case basis -"
+        },
+        {
+          "id": 4,
+          "source": "doc_2.json",
+          "text": "Day 1 (Monday): - HR welcome meeting at 9 AM - Laptop & equipment setup - Building access card setup"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T09:09:39.090068",
+      "question": "what is thise file about ? give summary",
+      "answer": "ERROR: ",
+      "latency_ms": 80142.52,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "Makefile",
+        "a_str1.class",
+        "chroma.sqlite3",
+        "main.py",
+        "type.class"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "Makefile",
+          "text": "@' AI Knowledge Assistant - Makefile Usage: make <command> \u2500\u2500 Setup \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500"
+        },
+        {
+          "id": 1,
+          "source": "a_str1.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V\b\u0000\b\u0001\u0000\u0005 java \u0000 \u0000 \u0007\u0000 \u0000 \u0000\u000e\u0001\u0000\u0010java/lang/System\u0001\u0000"
+        },
+        {
+          "id": 2,
+          "source": "chroma.sqlite3",
+          "text": "\u0001\u0002/\u0001\u0003201\u0001\u0002-\u0001\u00033 o\u0001\u0002t\u0001\u00036pm\u0001\u0004\u0082+\u0001\u00038 w\u0001\u00020\u0001\u00039am\u0001\u0004\u0082$\u0001\u0003: n\u0001\u0002}\u0001\u0003a m\u0001\u00027\u0002\u0002ge\u0001\u0002c\u0002\u0002h \u0001\u0004\u0081h\u0002\u0002j \u0001\u0004\u0081}\u0002\u0002l \u0001\u0006S\u0081a\u0003\u0001o\u0001\u0004\u0081\u0019"
+        },
+        {
+          "id": 3,
+          "source": "main.py",
+          "text": "\ufeffimport sys import os import time import json sys.path.append(os.path.dirname(os.path.dirname(os.pat"
+        },
+        {
+          "id": 4,
+          "source": "type.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u00003 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V\b\u0000\b\u0001\u0000\u0015welcome to java class \u0000 \u0000 \u0007\u0000 \u0000 \u0000\u000e\u0001\u0000\u0010j"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T09:12:41.358035",
+      "question": "What is TechCorp's mission?",
+      "answer": "ERROR: ",
+      "latency_ms": 73321.0,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "company_overview.md",
+        "chroma.sqlite3",
+        "chroma.sqlite3",
+        "it_support_guide.md",
+        "chroma.sqlite3"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "company_overview.md",
+          "text": "Company Overview TechCorp was founded in 2018 with a mission to simplify internal knowledge manageme"
+        },
+        {
+          "id": 1,
+          "source": "chroma.sqlite3",
+          "text": "Company Overview TechCorp was founded in 2018 with a mission to simplify internal knowledge manageme"
+        },
+        {
+          "id": 2,
+          "source": "chroma.sqlite3",
+          "text": "all API endpoints - Run tests locally before pushing: npm test Deployments: - Deployments happen eve"
+        },
+        {
+          "id": 3,
+          "source": "it_support_guide.md",
+          "text": "IT Support Guide Q: How do I reset my password? A: Go to accounts.techcorp.internal and click Forgot"
+        },
+        {
+          "id": 4,
+          "source": "chroma.sqlite3",
+          "text": "do I connect to the VPN? A: Download Cisco AnyConnect from the IT portal. Use vpn.techcorp.io as the"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T09:19:38.720931",
+      "question": "what is this file about?",
+      "answer": "ERROR: ",
+      "latency_ms": 83349.13,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "a_str1.class",
+        "copy_array.class",
+        "type.class",
+        "pipeline.cpython-313.pyc",
+        "Makefile"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "a_str1.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V\b\u0000\b\u0001\u0000\u0005 java \u0000 \u0000 \u0007\u0000 \u0000 \u0000\u000e\u0001\u0000\u0010java/lang/System\u0001\u0000"
+        },
+        {
+          "id": 1,
+          "source": "copy_array.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V \u0000\b\u0000 \u0007\u0000 \u0000 \u0000 \u0001\u0000\u0002[I\u0001\u0000\u0005clone\u0001\u0000\u0014()Ljava/lang/Obj"
+        },
+        {
+          "id": 2,
+          "source": "type.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u00003 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V\b\u0000\b\u0001\u0000\u0015welcome to java class \u0000 \u0000 \u0007\u0000 \u0000 \u0000\u000e\u0001\u0000\u0010j"
+        },
+        {
+          "id": 3,
+          "source": "pipeline.cpython-313.pyc",
+          "text": "\u00f3 \u0000\u0000\u0000\u0000\b\u00124j=\b\u0000\u0000\u00e3\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00f3&\u0001\u0000\u0000\u0095\u0000S\u0000S\u0001K\u0000r\u0000S\u0000S\u0001K\u0001r\u0001S\u0000S\u0002K\u0002J\u0003r\u0003 \u0000S\u0000S\u0003K\u0004J\u0005r\u0005J\u0006r\u0006 \u0000S\u0013S\u0005\u001a\u0000j\u0001r\u0007\\\bS\u0006"
+        },
+        {
+          "id": 4,
+          "source": "Makefile",
+          "text": "@' AI Knowledge Assistant - Makefile Usage: make <command> \u2500\u2500 Setup \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T09:19:38.940818",
+      "question": "What is TechCorp's mission?",
+      "answer": "ERROR: ",
+      "latency_ms": 60782.19,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "company_overview.md",
+        "chroma.sqlite3",
+        "chroma.sqlite3",
+        "it_support_guide.md",
+        "chroma.sqlite3"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "company_overview.md",
+          "text": "Company Overview TechCorp was founded in 2018 with a mission to simplify internal knowledge manageme"
+        },
+        {
+          "id": 1,
+          "source": "chroma.sqlite3",
+          "text": "Company Overview TechCorp was founded in 2018 with a mission to simplify internal knowledge manageme"
+        },
+        {
+          "id": 2,
+          "source": "chroma.sqlite3",
+          "text": "all API endpoints - Run tests locally before pushing: npm test Deployments: - Deployments happen eve"
+        },
+        {
+          "id": 3,
+          "source": "it_support_guide.md",
+          "text": "IT Support Guide Q: How do I reset my password? A: Go to accounts.techcorp.internal and click Forgot"
+        },
+        {
+          "id": 4,
+          "source": "chroma.sqlite3",
+          "text": "do I connect to the VPN? A: Download Cisco AnyConnect from the IT portal. Use vpn.techcorp.io as the"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T09:21:46.720887",
+      "question": "What is TechCorp's mission?",
+      "answer": "Extractive fallback (LLM unavailable): Company Overview TechCorp was founded in 2018 with a mission to simplify internal knowledge management. We have 3 offices: New York, London, and Bangalore. Our c",
+      "latency_ms": 67783.61,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "company_overview.md",
+        "chroma.sqlite3",
+        "chroma.sqlite3",
+        "it_support_guide.md",
+        "chroma.sqlite3"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "company_overview.md",
+          "text": "Company Overview TechCorp was founded in 2018 with a mission to simplify internal knowledge manageme"
+        },
+        {
+          "id": 1,
+          "source": "chroma.sqlite3",
+          "text": "Company Overview TechCorp was founded in 2018 with a mission to simplify internal knowledge manageme"
+        },
+        {
+          "id": 2,
+          "source": "chroma.sqlite3",
+          "text": "all API endpoints - Run tests locally before pushing: npm test Deployments: - Deployments happen eve"
+        },
+        {
+          "id": 3,
+          "source": "it_support_guide.md",
+          "text": "IT Support Guide Q: How do I reset my password? A: Go to accounts.techcorp.internal and click Forgot"
+        },
+        {
+          "id": 4,
+          "source": "chroma.sqlite3",
+          "text": "do I connect to the VPN? A: Download Cisco AnyConnect from the IT portal. Use vpn.techcorp.io as the"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T09:26:19.131365",
+      "question": "what is this file about?",
+      "answer": "This file appears to be a Makefile describing various tasks for setting up, running, evaluating, testing, cleaning, indexing, logging, and more an AI system. The specific commands listed in the file c",
+      "latency_ms": 44943.23,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "a_str1.class",
+        "copy_array.class",
+        "type.class",
+        "pipeline.cpython-313.pyc",
+        "Makefile"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "a_str1.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V\b\u0000\b\u0001\u0000\u0005 java \u0000 \u0000 \u0007\u0000 \u0000 \u0000\u000e\u0001\u0000\u0010java/lang/System\u0001\u0000"
+        },
+        {
+          "id": 1,
+          "source": "copy_array.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V \u0000\b\u0000 \u0007\u0000 \u0000 \u0000 \u0001\u0000\u0002[I\u0001\u0000\u0005clone\u0001\u0000\u0014()Ljava/lang/Obj"
+        },
+        {
+          "id": 2,
+          "source": "type.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u00003 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V\b\u0000\b\u0001\u0000\u0015welcome to java class \u0000 \u0000 \u0007\u0000 \u0000 \u0000\u000e\u0001\u0000\u0010j"
+        },
+        {
+          "id": 3,
+          "source": "pipeline.cpython-313.pyc",
+          "text": "\u00f3 \u0000\u0000\u0000\u0000\b\u00124j=\b\u0000\u0000\u00e3\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00f3&\u0001\u0000\u0000\u0095\u0000S\u0000S\u0001K\u0000r\u0000S\u0000S\u0001K\u0001r\u0001S\u0000S\u0002K\u0002J\u0003r\u0003 \u0000S\u0000S\u0003K\u0004J\u0005r\u0005J\u0006r\u0006 \u0000S\u0013S\u0005\u001a\u0000j\u0001r\u0007\\\bS\u0006"
+        },
+        {
+          "id": 4,
+          "source": "Makefile",
+          "text": "@' AI Knowledge Assistant - Makefile Usage: make <command> \u2500\u2500 Setup \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T09:28:24.489772",
+      "question": "what is podcaste",
+      "answer": "Extractive fallback (LLM unavailable): CTO is Raj Patel. We operate Monday to Friday, 9am to 6pm local time. \u0000\u0000\u0000\u0007\u000f\u00cf\u0000\u000f\u00f9\u000f\u00f2\u000f\u00eb\u000f\u00e4\u000f\u00dd\u000f\u00d6\u000f\u00cf\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "latency_ms": 60717.0,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "chroma.sqlite3",
+        "test_search.py",
+        "build_index.py",
+        "registration.html",
+        "__init__.cpython-313.pyc"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "chroma.sqlite3",
+          "text": "CTO is Raj Patel. We operate Monday to Friday, 9am to 6pm local time. \u0000\u0000\u0000\u0007\u000f\u00cf\u0000\u000f\u00f9\u000f\u00f2\u000f\u00eb\u000f\u00e4\u000f\u00dd\u000f\u00d6\u000f\u00cf\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        },
+        {
+          "id": 1,
+          "source": "test_search.py",
+          "text": "import sys import os sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))) fr"
+        },
+        {
+          "id": 2,
+          "source": "build_index.py",
+          "text": "import sys import os Make sure Python can find the core modules sys.path.append(os.path.dirname(os.p"
+        },
+        {
+          "id": 3,
+          "source": "registration.html",
+          "text": "<!DOCTYPE html> <html> <head> <title>Registration Form</title> </head> <body> <h2>Registration Form<"
+        },
+        {
+          "id": 4,
+          "source": "__init__.cpython-313.pyc",
+          "text": "\u00f3 \u0000\u0000\u0000\u0000\u00fa\u00104j\u0000\u0000\u0000\u0000\u00e3\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00f3\u0004\u0000\u0000\u0000\u0095\u0000g\u0000)\u0001N\u00a9\u0000r\u0002\u0000\u0000\u0000\u00f3\u0000\u0000\u0000\u0000\u00da'D:\\ai-assistant\\backend\\api\\__init__.py"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T09:30:35.249370",
+      "question": "what is flocard?",
+      "answer": "Flocard is likely referring to the \"Full Cycle of Cardiac Arrest\" or a similar phrase related to the process of heart attack events and recovery, which can include symptoms, diagnosis, treatment, and ",
+      "latency_ms": 31534.36,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "warmup task day 1.docx",
+        "warmup task day 1.docx",
+        "copy_array.class",
+        "chroma.sqlite3",
+        "chroma.sqlite3"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "warmup task day 1.docx",
+          "text": "366Pi Technologies Official Website (in.linkedin.com) 1 key takeaways of 366 pi FloCard: FloCard has"
+        },
+        {
+          "id": 1,
+          "source": "warmup task day 1.docx",
+          "text": "your digital identity with FloCard. Exchange personal and contact details electronically. Interact a"
+        },
+        {
+          "id": 2,
+          "source": "copy_array.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V \u0000\b\u0000 \u0007\u0000 \u0000 \u0000 \u0001\u0000\u0002[I\u0001\u0000\u0005clone\u0001\u0000\u0014()Ljava/lang/Obj"
+        },
+        {
+          "id": 3,
+          "source": "chroma.sqlite3",
+          "text": "\u0004\u0019\u0001\u0001metadb\u0004\u000e \u0004\u0019\u0001\u0001metadb\u0003 \u0004\u0019\u0001\u0001metadb\u0002 \u0004\u0019 \u0001metadb \u0004\u0017\u0001\u0001sysdb \u0004\u0017\u0001\u0001sysdb \u0004\u0017\u0001\u0001sysdb\b\b \u0004\u0017\u0001\u0001sysdb\u0007\u0007 \u0004\u0017\u0001\u0001sysd"
+        },
+        {
+          "id": 4,
+          "source": "chroma.sqlite3",
+          "text": "\u0001\u0002/\u0001\u0003201\u0001\u0002-\u0001\u00033 o\u0001\u0002t\u0001\u00036pm\u0001\u0004\u0082+\u0001\u00038 w\u0001\u00020\u0001\u00039am\u0001\u0004\u0082$\u0001\u0003: n\u0001\u0002}\u0001\u0003a m\u0001\u00027\u0002\u0002ge\u0001\u0002c\u0002\u0002h \u0001\u0004\u0081h\u0002\u0002j \u0001\u0004\u0081}\u0002\u0002l \u0001\u0006S\u0081a\u0003\u0001o\u0001\u0004\u0081\u0019"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T09:32:41.197419",
+      "question": "What is TechCorp's mission?",
+      "answer": "I don't have a direct answer, but here's relevant information: Company Overview TechCorp was founded in 2018 with a mission to simplify internal knowledge management. We have 3 offices: New York, Lond",
+      "latency_ms": 83018.18,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "company_overview.md",
+        "chroma.sqlite3",
+        "chroma.sqlite3",
+        "it_support_guide.md",
+        "chroma.sqlite3"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "company_overview.md",
+          "text": "Company Overview TechCorp was founded in 2018 with a mission to simplify internal knowledge manageme"
+        },
+        {
+          "id": 1,
+          "source": "chroma.sqlite3",
+          "text": "Company Overview TechCorp was founded in 2018 with a mission to simplify internal knowledge manageme"
+        },
+        {
+          "id": 2,
+          "source": "chroma.sqlite3",
+          "text": "all API endpoints - Run tests locally before pushing: npm test Deployments: - Deployments happen eve"
+        },
+        {
+          "id": 3,
+          "source": "it_support_guide.md",
+          "text": "IT Support Guide Q: How do I reset my password? A: Go to accounts.techcorp.internal and click Forgot"
+        },
+        {
+          "id": 4,
+          "source": "chroma.sqlite3",
+          "text": "do I connect to the VPN? A: Download Cisco AnyConnect from the IT portal. Use vpn.techcorp.io as the"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T09:33:21.160182",
+      "question": "what is podcaste",
+      "answer": "Podcastes are audio programs that are typically distributed by streaming or downloading from the internet, often featuring interviews, discussions, and other content. They can range widely in style an",
+      "latency_ms": 34026.91,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "chroma.sqlite3",
+        "test_search.py",
+        "build_index.py",
+        "registration.html",
+        "__init__.cpython-313.pyc"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "chroma.sqlite3",
+          "text": "CTO is Raj Patel. We operate Monday to Friday, 9am to 6pm local time. \u0000\u0000\u0000\u0007\u000f\u00cf\u0000\u000f\u00f9\u000f\u00f2\u000f\u00eb\u000f\u00e4\u000f\u00dd\u000f\u00d6\u000f\u00cf\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        },
+        {
+          "id": 1,
+          "source": "test_search.py",
+          "text": "import sys import os sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))) fr"
+        },
+        {
+          "id": 2,
+          "source": "build_index.py",
+          "text": "import sys import os Make sure Python can find the core modules sys.path.append(os.path.dirname(os.p"
+        },
+        {
+          "id": 3,
+          "source": "registration.html",
+          "text": "<!DOCTYPE html> <html> <head> <title>Registration Form</title> </head> <body> <h2>Registration Form<"
+        },
+        {
+          "id": 4,
+          "source": "__init__.cpython-313.pyc",
+          "text": "\u00f3 \u0000\u0000\u0000\u0000\u00fa\u00104j\u0000\u0000\u0000\u0000\u00e3\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00f3\u0004\u0000\u0000\u0000\u0095\u0000g\u0000)\u0001N\u00a9\u0000r\u0002\u0000\u0000\u0000\u00f3\u0000\u0000\u0000\u0000\u00da'D:\\ai-assistant\\backend\\api\\__init__.py"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T09:35:24.356909",
+      "question": "What is TechCorp's mission?",
+      "answer": "TechCorp's mission is to develop and provide innovative solutions that enhance the efficiency and accessibility of healthcare information systems. They focus on improving patient care by creating and ",
+      "latency_ms": 67297.69,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "company_overview.md",
+        "chroma.sqlite3",
+        "chroma.sqlite3",
+        "it_support_guide.md",
+        "chroma.sqlite3"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "company_overview.md",
+          "text": "Company Overview TechCorp was founded in 2018 with a mission to simplify internal knowledge manageme"
+        },
+        {
+          "id": 1,
+          "source": "chroma.sqlite3",
+          "text": "Company Overview TechCorp was founded in 2018 with a mission to simplify internal knowledge manageme"
+        },
+        {
+          "id": 2,
+          "source": "chroma.sqlite3",
+          "text": "all API endpoints - Run tests locally before pushing: npm test Deployments: - Deployments happen eve"
+        },
+        {
+          "id": 3,
+          "source": "it_support_guide.md",
+          "text": "IT Support Guide Q: How do I reset my password? A: Go to accounts.techcorp.internal and click Forgot"
+        },
+        {
+          "id": 4,
+          "source": "chroma.sqlite3",
+          "text": "do I connect to the VPN? A: Download Cisco AnyConnect from the IT portal. Use vpn.techcorp.io as the"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T09:35:56.573469",
+      "question": "what is a podcast",
+      "answer": "A podcast is an audio or video series typically distributed via the Internet, often featuring discussions on various topics such as technology, business, science, culture, and entertainment. Podcasts ",
+      "latency_ms": 25781.97,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "test_search.py",
+        "registration.html",
+        "warmup task day 1.docx",
+        "vector_store.py",
+        "it_support_guide.json"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "test_search.py",
+          "text": "import sys import os sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))) fr"
+        },
+        {
+          "id": 1,
+          "source": "registration.html",
+          "text": "<!DOCTYPE html> <html> <head> <title>Registration Form</title> </head> <body> <h2>Registration Form<"
+        },
+        {
+          "id": 2,
+          "source": "warmup task day 1.docx",
+          "text": "your digital identity with FloCard. Exchange personal and contact details electronically. Interact a"
+        },
+        {
+          "id": 3,
+          "source": "vector_store.py",
+          "text": "import chromadb from core.embeddings.embedder import embed_texts ChromaDB will save data to this fol"
+        },
+        {
+          "id": 4,
+          "source": "it_support_guide.json",
+          "text": "{\"title\": \"IT Support Guide\", \"type\": \"faq\", \"tags\": [\"it\", \"support\", \"faq\"], \"date\": \"2026-06-18T1"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T09:37:30.636905",
+      "question": "what is flocard?",
+      "answer": "I don't have a direct answer, but here's relevant information: 366Pi Technologies Official Website (in.linkedin.com) 1 key takeaways of 366 pi FloCard: FloCard has emerged from evolution and numerous ",
+      "latency_ms": 60650.33,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "warmup task day 1.docx",
+        "warmup task day 1.docx",
+        "copy_array.class",
+        "chroma.sqlite3",
+        "chroma.sqlite3"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "warmup task day 1.docx",
+          "text": "366Pi Technologies Official Website (in.linkedin.com) 1 key takeaways of 366 pi FloCard: FloCard has"
+        },
+        {
+          "id": 1,
+          "source": "warmup task day 1.docx",
+          "text": "your digital identity with FloCard. Exchange personal and contact details electronically. Interact a"
+        },
+        {
+          "id": 2,
+          "source": "copy_array.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V \u0000\b\u0000 \u0007\u0000 \u0000 \u0000 \u0001\u0000\u0002[I\u0001\u0000\u0005clone\u0001\u0000\u0014()Ljava/lang/Obj"
+        },
+        {
+          "id": 3,
+          "source": "chroma.sqlite3",
+          "text": "\u0004\u0019\u0001\u0001metadb\u0004\u000e \u0004\u0019\u0001\u0001metadb\u0003 \u0004\u0019\u0001\u0001metadb\u0002 \u0004\u0019 \u0001metadb \u0004\u0017\u0001\u0001sysdb \u0004\u0017\u0001\u0001sysdb \u0004\u0017\u0001\u0001sysdb\b\b \u0004\u0017\u0001\u0001sysdb\u0007\u0007 \u0004\u0017\u0001\u0001sysd"
+        },
+        {
+          "id": 4,
+          "source": "chroma.sqlite3",
+          "text": "\u0001\u0002/\u0001\u0003201\u0001\u0002-\u0001\u00033 o\u0001\u0002t\u0001\u00036pm\u0001\u0004\u0082+\u0001\u00038 w\u0001\u00020\u0001\u00039am\u0001\u0004\u0082$\u0001\u0003: n\u0001\u0002}\u0001\u0003a m\u0001\u00027\u0002\u0002ge\u0001\u0002c\u0002\u0002h \u0001\u0004\u0081h\u0002\u0002j \u0001\u0004\u0081}\u0002\u0002l \u0001\u0006S\u0081a\u0003\u0001o\u0001\u0004\u0081\u0019"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T09:45:30.437514",
+      "question": "what is the difference betweem artificial intelligence and machine learning?",
+      "answer": "Artificial Intelligence (AI) refers to the broader field of creating machines that can perform tasks requiring human-level intelligence, while Machine Learning (ML) is a subset focused on enabling the",
+      "latency_ms": 49517.29,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "ARCHITECTURE.md",
+        "demo.ps1",
+        "java dp assignment.pdf",
+        "Makefile",
+        "LeapYear.java"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "ARCHITECTURE.md",
+          "text": "@' Architecture \u2014 AI Knowledge Assistant System Overview"
+        },
+        {
+          "id": 1,
+          "source": "demo.ps1",
+          "text": "\ufeff demo.ps1 \u00e2\u20ac\u201d Quick demo of the AI Knowledge Assistant API Run this with: .\\demo.ps1 $TOKEN = \"secr"
+        },
+        {
+          "id": 2,
+          "source": "java dp assignment.pdf",
+          "text": "1. What are the main features of Java? 2. Difference between JDK, JRE, and JVM. 3. Explain platform "
+        },
+        {
+          "id": 3,
+          "source": "Makefile",
+          "text": "@' AI Knowledge Assistant - Makefile Usage: make <command> \u2500\u2500 Setup \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500"
+        },
+        {
+          "id": 4,
+          "source": "LeapYear.java",
+          "text": "import java.util.Scanner; public class LeapYear { public static void main(String[] args) { Scanner S"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T10:05:03.606547",
+      "question": "can you tell me feaure of hp laptop",
+      "answer": "I don't have a direct answer, but here's relevant information: <!DOCTYPE html> <html> <head> <title>Computer Peripherals Catalog</title> </head> <body> <!-- University Logo --> <div align=\"center\"> <i",
+      "latency_ms": 63399.48,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "product.html",
+        "stationary.html",
+        "!DOCTYPE.html",
+        "it_support_guide.md",
+        "TYPE.html"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "product.html",
+          "text": "<!DOCTYPE html> <html> <head> <title>Computer Peripherals Catalog</title> </head> <body> <!-- Univer"
+        },
+        {
+          "id": 1,
+          "source": "stationary.html",
+          "text": "<!DOCTYPE html> <html> <head> <title>Computer Peripherals Catalog</title> </head> <body> <h1 align=\""
+        },
+        {
+          "id": 2,
+          "source": "!DOCTYPE.html",
+          "text": "<!DOCTYPE html> <html> <head> <title>Computer Peripherals Catalog</title> </head> <body> <!-- Univer"
+        },
+        {
+          "id": 3,
+          "source": "it_support_guide.md",
+          "text": "IT Support Guide Q: How do I reset my password? A: Go to accounts.techcorp.internal and click Forgot"
+        },
+        {
+          "id": 4,
+          "source": "TYPE.html",
+          "text": "<!DOCTYPE html> <html> <head> <title>Computer Peripherals Catalog</title> </head> <body <!-- Univers"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T10:07:40.241760",
+      "question": "what is flocard?",
+      "answer": "I don't have a direct answer, but here's relevant information: 366Pi Technologies Official Website (in.linkedin.com) 1 key takeaways of 366 pi FloCard: FloCard has emerged from evolution and numerous ",
+      "latency_ms": 61067.37,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "warmup task day 1.docx",
+        "warmup task day 1.docx",
+        "copy_array.class",
+        "chroma.sqlite3",
+        "chroma.sqlite3"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "warmup task day 1.docx",
+          "text": "366Pi Technologies Official Website (in.linkedin.com) 1 key takeaways of 366 pi FloCard: FloCard has"
+        },
+        {
+          "id": 1,
+          "source": "warmup task day 1.docx",
+          "text": "your digital identity with FloCard. Exchange personal and contact details electronically. Interact a"
+        },
+        {
+          "id": 2,
+          "source": "copy_array.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V \u0000\b\u0000 \u0007\u0000 \u0000 \u0000 \u0001\u0000\u0002[I\u0001\u0000\u0005clone\u0001\u0000\u0014()Ljava/lang/Obj"
+        },
+        {
+          "id": 3,
+          "source": "chroma.sqlite3",
+          "text": "\u0004\u0019\u0001\u0001metadb\u0004\u000e \u0004\u0019\u0001\u0001metadb\u0003 \u0004\u0019\u0001\u0001metadb\u0002 \u0004\u0019 \u0001metadb \u0004\u0017\u0001\u0001sysdb \u0004\u0017\u0001\u0001sysdb \u0004\u0017\u0001\u0001sysdb\b\b \u0004\u0017\u0001\u0001sysdb\u0007\u0007 \u0004\u0017\u0001\u0001sysd"
+        },
+        {
+          "id": 4,
+          "source": "chroma.sqlite3",
+          "text": "\u0001\u0002/\u0001\u0003201\u0001\u0002-\u0001\u00033 o\u0001\u0002t\u0001\u00036pm\u0001\u0004\u0082+\u0001\u00038 w\u0001\u00020\u0001\u00039am\u0001\u0004\u0082$\u0001\u0003: n\u0001\u0002}\u0001\u0003a m\u0001\u00027\u0002\u0002ge\u0001\u0002c\u0002\u0002h \u0001\u0004\u0081h\u0002\u0002j \u0001\u0004\u0081}\u0002\u0002l \u0001\u0006S\u0081a\u0003\u0001o\u0001\u0004\u0081\u0019"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T10:43:03.158970",
+      "question": "give the summary of uploaded file",
+      "answer": "The uploaded file contains metadata and a text document. The JSON metadata includes the title, type (company), tags (\"company\", \"overview\"), date, and source. The text is processed by cleaning and chu",
+      "latency_ms": 58662.1,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "pipeline.py",
+        "build_index.py",
+        "company_overview.json",
+        "a_in1.class",
+        "a_in8.class"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "pipeline.py",
+          "text": "import os import json from core.ingestion.parsers import load_document from core.ingestion.chunker i"
+        },
+        {
+          "id": 1,
+          "source": "build_index.py",
+          "text": "import sys import os Make sure Python can find the core modules sys.path.append(os.path.dirname(os.p"
+        },
+        {
+          "id": 2,
+          "source": "company_overview.json",
+          "text": "{\"title\": \"Company Overview\", \"type\": \"company\", \"tags\": [\"company\", \"overview\", \"internal\"], \"date\""
+        },
+        {
+          "id": 3,
+          "source": "a_in1.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000K \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V\u0007\u0000\b\u0001\u0000\u0019java/io/InputStreamReader \u0000 \u0000 \u0007\u0000 \u0000 \u0000\u000e"
+        },
+        {
+          "id": 4,
+          "source": "a_in8.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000I \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V\u0007\u0000\b\u0001\u0000\u0017java/io/DataInputStream \u0000 \u0000 \u0007\u0000 \u0000 \u0000\u000e\u0001\u0000"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T10:53:01.009447",
+      "question": "what is machine learning?",
+      "answer": "Machine learning is a subfield of artificial intelligence focused on developing algorithms that allow computers to automatically learn and improve from experience without being explicitly programmed. ",
+      "latency_ms": 36251.67,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "ARCHITECTURE.md",
+        "java dp assignment.pdf",
+        "evaluate.py",
+        "LeapYear.java",
+        "message.java"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "ARCHITECTURE.md",
+          "text": "@' Architecture \u2014 AI Knowledge Assistant System Overview"
+        },
+        {
+          "id": 1,
+          "source": "java dp assignment.pdf",
+          "text": "1. What are the main features of Java? 2. Difference between JDK, JRE, and JVM. 3. Explain platform "
+        },
+        {
+          "id": 2,
+          "source": "evaluate.py",
+          "text": "import json import requests import time API_URL = \"http://localhost:8000/ask\" def ask(question: str)"
+        },
+        {
+          "id": 3,
+          "source": "LeapYear.java",
+          "text": "import java.util.Scanner; public class LeapYear { public static void main(String[] args) { Scanner S"
+        },
+        {
+          "id": 4,
+          "source": "message.java",
+          "text": "class type { public static void main(Strin args[]) throws InterruptedException { String message=\"wel"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T10:54:34.935980",
+      "question": "describe genertive tree image variation",
+      "answer": "I don't have information about this topic in the knowledge base. Please ask about the company, policies, or documentation that has been uploaded.",
+      "latency_ms": 61239.95,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "vector_store.cpython-313.pyc",
+        "chroma.sqlite3",
+        "pipeline.cpython-313.pyc",
+        "copy_array.class",
+        "TYPE.html"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "vector_store.cpython-313.pyc",
+          "text": "\u00f3 \u0000\u0000\u0000\u0000X\u00144j\u000f \u0000\u0000\u00e3\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00f3\u009a\u0000\u0000\u0000\u0095\u0000S\u0000S\u0001K\u0000r\u0000S\u0000S\u0002K\u0001J\u0002r\u0002 \u0000S\u0003r\u0003S\u0004r\u0004\\\u0000R \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\"\u0000\\\u0003S\u00059\u0001"
+        },
+        {
+          "id": 1,
+          "source": "chroma.sqlite3",
+          "text": "\u0001\u0002/\u0001\u0003201\u0001\u0002-\u0001\u00033 o\u0001\u0002t\u0001\u00036pm\u0001\u0004\u0082+\u0001\u00038 w\u0001\u00020\u0001\u00039am\u0001\u0004\u0082$\u0001\u0003: n\u0001\u0002}\u0001\u0003a m\u0001\u00027\u0002\u0002ge\u0001\u0002c\u0002\u0002h \u0001\u0004\u0081h\u0002\u0002j \u0001\u0004\u0081}\u0002\u0002l \u0001\u0006S\u0081a\u0003\u0001o\u0001\u0004\u0081\u0019"
+        },
+        {
+          "id": 2,
+          "source": "pipeline.cpython-313.pyc",
+          "text": "\u00f3 \u0000\u0000\u0000\u0000\b\u00124j=\b\u0000\u0000\u00e3\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00f3&\u0001\u0000\u0000\u0095\u0000S\u0000S\u0001K\u0000r\u0000S\u0000S\u0001K\u0001r\u0001S\u0000S\u0002K\u0002J\u0003r\u0003 \u0000S\u0000S\u0003K\u0004J\u0005r\u0005J\u0006r\u0006 \u0000S\u0013S\u0005\u001a\u0000j\u0001r\u0007\\\bS\u0006"
+        },
+        {
+          "id": 3,
+          "source": "copy_array.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V \u0000\b\u0000 \u0007\u0000 \u0000 \u0000 \u0001\u0000\u0002[I\u0001\u0000\u0005clone\u0001\u0000\u0014()Ljava/lang/Obj"
+        },
+        {
+          "id": 4,
+          "source": "TYPE.html",
+          "text": "<!DOCTYPE html> <html> <head> <title>Computer Peripherals Catalog</title> </head> <body <!-- Univers"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T10:57:23.680747",
+      "question": "what is laptop pc",
+      "answer": "I don't have a direct answer, but here's relevant information: <!DOCTYPE html> <html> <head> <title>Computer Peripherals Catalog</title> </head> <body> <!-- University Logo --> <div align=\"center\"> <i",
+      "latency_ms": 61099.55,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "product.html",
+        "stationary.html",
+        "!DOCTYPE.html",
+        "it_support_guide.md",
+        "TYPE.html"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "product.html",
+          "text": "<!DOCTYPE html> <html> <head> <title>Computer Peripherals Catalog</title> </head> <body> <!-- Univer"
+        },
+        {
+          "id": 1,
+          "source": "stationary.html",
+          "text": "<!DOCTYPE html> <html> <head> <title>Computer Peripherals Catalog</title> </head> <body> <h1 align=\""
+        },
+        {
+          "id": 2,
+          "source": "!DOCTYPE.html",
+          "text": "<!DOCTYPE html> <html> <head> <title>Computer Peripherals Catalog</title> </head> <body> <!-- Univer"
+        },
+        {
+          "id": 3,
+          "source": "it_support_guide.md",
+          "text": "IT Support Guide Q: How do I reset my password? A: Go to accounts.techcorp.internal and click Forgot"
+        },
+        {
+          "id": 4,
+          "source": "TYPE.html",
+          "text": "<!DOCTYPE html> <html> <head> <title>Computer Peripherals Catalog</title> </head> <body <!-- Univers"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T10:58:16.796994",
+      "question": "what is computer?",
+      "answer": "A computer is a device that can accept data as input, process it through various operations, and produce output. It interprets the user's instructions or commands and performs calculations, simulation",
+      "latency_ms": 34483.38,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "product.html",
+        "warmup task day 1.docx",
+        "a_in8.java",
+        "a_in8.txt",
+        "TYPE.html"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "product.html",
+          "text": "<!DOCTYPE html> <html> <head> <title>Computer Peripherals Catalog</title> </head> <body> <!-- Univer"
+        },
+        {
+          "id": 1,
+          "source": "warmup task day 1.docx",
+          "text": "366Pi Technologies Official Website (in.linkedin.com) 1 key takeaways of 366 pi FloCard: FloCard has"
+        },
+        {
+          "id": 2,
+          "source": "a_in8.java",
+          "text": "import java.io.; class a_in8 { public static void main(String[] args) throws IOException { int a,b, "
+        },
+        {
+          "id": 3,
+          "source": "a_in8.txt",
+          "text": "import java.io.; class a_in8 { public static void main(String[] args) throws IOException { int a,b, "
+        },
+        {
+          "id": 4,
+          "source": "TYPE.html",
+          "text": "<!DOCTYPE html> <html> <head> <title>Computer Peripherals Catalog</title> </head> <body <!-- Univers"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T13:31:33.943179",
+      "question": "who is pari?",
+      "answer": "I don't know the answer to who Pari is.",
+      "latency_ms": 48123.59,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "main.py",
+        "__init__.cpython-313.pyc",
+        "demo.ps1",
+        "LeapYear.class",
+        "it_support_guide.json"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "main.py",
+          "text": "\ufeffimport sys import os import time import json sys.path.append(os.path.dirname(os.path.dirname(os.pat"
+        },
+        {
+          "id": 1,
+          "source": "__init__.cpython-313.pyc",
+          "text": "\u00f3 \u0000\u0000\u0000\u0000\u00fa\u00104j\u0000\u0000\u0000\u0000\u00e3\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00f3\u0004\u0000\u0000\u0000\u0095\u0000g\u0000)\u0001N\u00a9\u0000r\u0002\u0000\u0000\u0000\u00f3\u0000\u0000\u0000\u0000\u00da'D:\\ai-assistant\\backend\\api\\__init__.py"
+        },
+        {
+          "id": 2,
+          "source": "demo.ps1",
+          "text": "\ufeff demo.ps1 \u00e2\u20ac\u201d Quick demo of the AI Knowledge Assistant API Run this with: .\\demo.ps1 $TOKEN = \"secr"
+        },
+        {
+          "id": 3,
+          "source": "LeapYear.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000G \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V\u0007\u0000\b\u0001\u0000\u0011java/util/Scanner \u0000 \u0000 \u0007\u0000 \u0000 \u0000\u000e\u0001\u0000\u0010java/"
+        },
+        {
+          "id": 4,
+          "source": "it_support_guide.json",
+          "text": "{\"title\": \"IT Support Guide\", \"type\": \"faq\", \"tags\": [\"it\", \"support\", \"faq\"], \"date\": \"2026-06-18T1"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T13:32:56.957470",
+      "question": "who is president of india?",
+      "answer": "I don't have information about this topic in the knowledge base. Please ask about the company, policies, or documentation that has been uploaded.",
+      "latency_ms": 61348.82,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "__init__.cpython-313.pyc",
+        "company_overview.md",
+        "chroma.sqlite3",
+        "LeapYear.class",
+        "warmup task day 1.docx"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "__init__.cpython-313.pyc",
+          "text": "\u00f3 \u0000\u0000\u0000\u0000\u00fa\u00104j\u0000\u0000\u0000\u0000\u00e3\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00f3\u0004\u0000\u0000\u0000\u0095\u0000g\u0000)\u0001N\u00a9\u0000r\u0002\u0000\u0000\u0000\u00f3\u0000\u0000\u0000\u0000\u00da'D:\\ai-assistant\\backend\\api\\__init__.py"
+        },
+        {
+          "id": 1,
+          "source": "company_overview.md",
+          "text": "Company Overview TechCorp was founded in 2018 with a mission to simplify internal knowledge manageme"
+        },
+        {
+          "id": 2,
+          "source": "chroma.sqlite3",
+          "text": "knowledge management. We have 3 offices: New York, London, and Bangalore. Our core teams are Enginee"
+        },
+        {
+          "id": 3,
+          "source": "LeapYear.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000G \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V\u0007\u0000\b\u0001\u0000\u0011java/util/Scanner \u0000 \u0000 \u0007\u0000 \u0000 \u0000\u000e\u0001\u0000\u0010java/"
+        },
+        {
+          "id": 4,
+          "source": "warmup task day 1.docx",
+          "text": "366Pi Technologies Official Website (in.linkedin.com) 1 key takeaways of 366 pi FloCard: FloCard has"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T13:36:06.749819",
+      "question": "who is president of india?",
+      "answer": "The current President of India is Ram Nath Kovind.",
+      "latency_ms": 55732.79,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "__init__.cpython-313.pyc",
+        "company_overview.md",
+        "chroma.sqlite3",
+        "LeapYear.class",
+        "warmup task day 1.docx"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "__init__.cpython-313.pyc",
+          "text": "\u00f3 \u0000\u0000\u0000\u0000\u00fa\u00104j\u0000\u0000\u0000\u0000\u00e3\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00f3\u0004\u0000\u0000\u0000\u0095\u0000g\u0000)\u0001N\u00a9\u0000r\u0002\u0000\u0000\u0000\u00f3\u0000\u0000\u0000\u0000\u00da'D:\\ai-assistant\\backend\\api\\__init__.py"
+        },
+        {
+          "id": 1,
+          "source": "company_overview.md",
+          "text": "Company Overview TechCorp was founded in 2018 with a mission to simplify internal knowledge manageme"
+        },
+        {
+          "id": 2,
+          "source": "chroma.sqlite3",
+          "text": "knowledge management. We have 3 offices: New York, London, and Bangalore. Our core teams are Enginee"
+        },
+        {
+          "id": 3,
+          "source": "LeapYear.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000G \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V\u0007\u0000\b\u0001\u0000\u0011java/util/Scanner \u0000 \u0000 \u0007\u0000 \u0000 \u0000\u000e\u0001\u0000\u0010java/"
+        },
+        {
+          "id": 4,
+          "source": "warmup task day 1.docx",
+          "text": "366Pi Technologies Official Website (in.linkedin.com) 1 key takeaways of 366 pi FloCard: FloCard has"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T13:38:38.509639",
+      "question": "who is the pm of india?",
+      "answer": "I don't have information about this topic in the knowledge base. Please ask about the company, policies, or documentation that has been uploaded.",
+      "latency_ms": 61354.21,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "chroma.sqlite3",
+        "company_overview.md",
+        "__init__.cpython-313.pyc",
+        "LeapYear.class",
+        "data_level0.bin"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "chroma.sqlite3",
+          "text": "knowledge management. We have 3 offices: New York, London, and Bangalore. Our core teams are Enginee"
+        },
+        {
+          "id": 1,
+          "source": "company_overview.md",
+          "text": "Company Overview TechCorp was founded in 2018 with a mission to simplify internal knowledge manageme"
+        },
+        {
+          "id": 2,
+          "source": "__init__.cpython-313.pyc",
+          "text": "\u00f3 \u0000\u0000\u0000\u0000\u00fa\u00104j\u0000\u0000\u0000\u0000\u00e3\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00f3\u0004\u0000\u0000\u0000\u0095\u0000g\u0000)\u0001N\u00a9\u0000r\u0002\u0000\u0000\u0000\u00f3\u0000\u0000\u0000\u0000\u00da'D:\\ai-assistant\\backend\\api\\__init__.py"
+        },
+        {
+          "id": 3,
+          "source": "LeapYear.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000G \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V\u0007\u0000\b\u0001\u0000\u0011java/util/Scanner \u0000 \u0000 \u0007\u0000 \u0000 \u0000\u000e\u0001\u0000\u0010java/"
+        },
+        {
+          "id": 4,
+          "source": "data_level0.bin",
+          "text": "P\u0001+ K\u0001\u0000\u0000\u0080\u008a\u00dd@K\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T13:42:03.189411",
+      "question": "who is the pm of india?",
+      "answer": "The Prime Minister of India is Narendra Modi.",
+      "latency_ms": 23485.96,
+      "retrieved_count": 0,
+      "retrieved_sources": [],
+      "citation_count": 0,
+      "citations": []
+    },
+    {
+      "timestamp": "2026-06-22T13:42:55.712824",
+      "question": "what is flocard?",
+      "answer": "Flocard is not present in the provided text and it seems to be either a typo or irrelevant information, as the context does not mention Flocard. The text discusses payroll processes, onboarding for ne",
+      "latency_ms": 27321.27,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "warmup task day 1.docx",
+        "warmup task day 1.docx",
+        "copy_array.class",
+        "chroma.sqlite3",
+        "chroma.sqlite3"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "warmup task day 1.docx",
+          "text": "366Pi Technologies Official Website (in.linkedin.com) 1 key takeaways of 366 pi FloCard: FloCard has"
+        },
+        {
+          "id": 1,
+          "source": "warmup task day 1.docx",
+          "text": "your digital identity with FloCard. Exchange personal and contact details electronically. Interact a"
+        },
+        {
+          "id": 2,
+          "source": "copy_array.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V \u0000\b\u0000 \u0007\u0000 \u0000 \u0000 \u0001\u0000\u0002[I\u0001\u0000\u0005clone\u0001\u0000\u0014()Ljava/lang/Obj"
+        },
+        {
+          "id": 3,
+          "source": "chroma.sqlite3",
+          "text": "\u0004\u0019\u0001\u0001metadb\u0004\u000e \u0004\u0019\u0001\u0001metadb\u0003 \u0004\u0019\u0001\u0001metadb\u0002 \u0004\u0019 \u0001metadb \u0004\u0017\u0001\u0001sysdb \u0004\u0017\u0001\u0001sysdb \u0004\u0017\u0001\u0001sysdb\b\b \u0004\u0017\u0001\u0001sysdb\u0007\u0007 \u0004\u0017\u0001\u0001sysd"
+        },
+        {
+          "id": 4,
+          "source": "chroma.sqlite3",
+          "text": "\u0001\u0002/\u0001\u0003201\u0001\u0002-\u0001\u00033 o\u0001\u0002t\u0001\u00036pm\u0001\u0004\u0082+\u0001\u00038 w\u0001\u00020\u0001\u00039am\u0001\u0004\u0082$\u0001\u0003: n\u0001\u0002}\u0001\u0003a m\u0001\u00027\u0002\u0002ge\u0001\u0002c\u0002\u0002h \u0001\u0004\u0081h\u0002\u0002j \u0001\u0004\u0081}\u0002\u0002l \u0001\u0006S\u0081a\u0003\u0001o\u0001\u0004\u0081\u0019"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T13:47:04.864755",
+      "question": "what is flocard?",
+      "answer": "I do not have specific information about a person named Flocard or any details on what it could be. I am unable to provide accurate answers that go beyond my existing knowledge base without researchin",
+      "latency_ms": 32164.77,
+      "retrieved_count": 0,
+      "retrieved_sources": [],
+      "citation_count": 0,
+      "citations": []
+    },
+    {
+      "timestamp": "2026-06-22T13:51:13.604780",
+      "question": "what is flocard?",
+      "answer": "Flocard refers to an artificial reef or artificial island that is constructed in marine environments for various purposes such as tourism, educational outreach, and environmental education. These stru",
+      "latency_ms": 23895.58,
+      "retrieved_count": 0,
+      "retrieved_sources": [],
+      "citation_count": 0,
+      "citations": []
+    },
+    {
+      "timestamp": "2026-06-22T13:51:39.641468",
+      "question": "what is amchine learning?",
+      "answer": "Artificial Intelligence (AI) is an interdisciplinary field of computer science that aims to create intelligent machines capable of performing tasks requiring human intelligence without explicit instru",
+      "latency_ms": 16553.54,
+      "retrieved_count": 0,
+      "retrieved_sources": [],
+      "citation_count": 0,
+      "citations": []
+    },
+    {
+      "timestamp": "2026-06-22T13:55:00.954538",
+      "question": "what is this file about give summary",
+      "answer": "Without knowing which specific file or document you are referring to, I cannot provide an accurate summary of its contents. Please specify the name or type of file, and I'll do my best to summarize it",
+      "latency_ms": 4989.62,
+      "retrieved_count": 0,
+      "retrieved_sources": [],
+      "citation_count": 0,
+      "citations": []
+    },
+    {
+      "timestamp": "2026-06-22T13:59:18.438616",
+      "question": "what is ai?",
+      "answer": "Artificial Intelligence (AI) refers to the simulation of human intelligence processes by computer systems. This includes learning, reasoning, and self-correction. AI enables machines to perform tasks ",
+      "latency_ms": 64945.29,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "ARCHITECTURE.md",
+        "demo.ps1",
+        "__init__.cpython-313.pyc",
+        "Makefile",
+        "main.py"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "ARCHITECTURE.md",
+          "text": "@' Architecture \u2014 AI Knowledge Assistant System Overview"
+        },
+        {
+          "id": 1,
+          "source": "demo.ps1",
+          "text": "\ufeff demo.ps1 \u00e2\u20ac\u201d Quick demo of the AI Knowledge Assistant API Run this with: .\\demo.ps1 $TOKEN = \"secr"
+        },
+        {
+          "id": 2,
+          "source": "__init__.cpython-313.pyc",
+          "text": "\u00f3 \u0000\u0000\u0000\u0000\u00fa\u00104j\u0000\u0000\u0000\u0000\u00e3\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00f3\u0004\u0000\u0000\u0000\u0095\u0000g\u0000)\u0001N\u00a9\u0000r\u0002\u0000\u0000\u0000\u00f3\u0000\u0000\u0000\u0000\u00da'D:\\ai-assistant\\backend\\api\\__init__.py"
+        },
+        {
+          "id": 3,
+          "source": "Makefile",
+          "text": "@' AI Knowledge Assistant - Makefile Usage: make <command> \u2500\u2500 Setup \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500"
+        },
+        {
+          "id": 4,
+          "source": "main.py",
+          "text": "\ufeffimport sys import os import time import json sys.path.append(os.path.dirname(os.path.dirname(os.pat"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T14:00:51.607639",
+      "question": "what is this file about?",
+      "answer": "ERROR: ",
+      "latency_ms": 61646.19,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "a_str1.class",
+        "copy_array.class",
+        "type.class",
+        "pipeline.cpython-313.pyc",
+        "Makefile"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "a_str1.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V\b\u0000\b\u0001\u0000\u0005 java \u0000 \u0000 \u0007\u0000 \u0000 \u0000\u000e\u0001\u0000\u0010java/lang/System\u0001\u0000"
+        },
+        {
+          "id": 1,
+          "source": "copy_array.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V \u0000\b\u0000 \u0007\u0000 \u0000 \u0000 \u0001\u0000\u0002[I\u0001\u0000\u0005clone\u0001\u0000\u0014()Ljava/lang/Obj"
+        },
+        {
+          "id": 2,
+          "source": "type.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u00003 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V\b\u0000\b\u0001\u0000\u0015welcome to java class \u0000 \u0000 \u0007\u0000 \u0000 \u0000\u000e\u0001\u0000\u0010j"
+        },
+        {
+          "id": 3,
+          "source": "pipeline.cpython-313.pyc",
+          "text": "\u00f3 \u0000\u0000\u0000\u0000\b\u00124j=\b\u0000\u0000\u00e3\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00f3&\u0001\u0000\u0000\u0095\u0000S\u0000S\u0001K\u0000r\u0000S\u0000S\u0001K\u0001r\u0001S\u0000S\u0002K\u0002J\u0003r\u0003 \u0000S\u0000S\u0003K\u0004J\u0005r\u0005J\u0006r\u0006 \u0000S\u0013S\u0005\u001a\u0000j\u0001r\u0007\\\bS\u0006"
+        },
+        {
+          "id": 4,
+          "source": "Makefile",
+          "text": "@' AI Knowledge Assistant - Makefile Usage: make <command> \u2500\u2500 Setup \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T14:03:52.081302",
+      "question": "what is thise file about? give summary",
+      "answer": "ERROR: ",
+      "latency_ms": 61064.61,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "Makefile",
+        "a_str1.class",
+        "chroma.sqlite3",
+        "main.py",
+        "type.class"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "Makefile",
+          "text": "@' AI Knowledge Assistant - Makefile Usage: make <command> \u2500\u2500 Setup \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500"
+        },
+        {
+          "id": 1,
+          "source": "a_str1.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V\b\u0000\b\u0001\u0000\u0005 java \u0000 \u0000 \u0007\u0000 \u0000 \u0000\u000e\u0001\u0000\u0010java/lang/System\u0001\u0000"
+        },
+        {
+          "id": 2,
+          "source": "chroma.sqlite3",
+          "text": "\u0001\u0002/\u0001\u0003201\u0001\u0002-\u0001\u00033 o\u0001\u0002t\u0001\u00036pm\u0001\u0004\u0082+\u0001\u00038 w\u0001\u00020\u0001\u00039am\u0001\u0004\u0082$\u0001\u0003: n\u0001\u0002}\u0001\u0003a m\u0001\u00027\u0002\u0002ge\u0001\u0002c\u0002\u0002h \u0001\u0004\u0081h\u0002\u0002j \u0001\u0004\u0081}\u0002\u0002l \u0001\u0006S\u0081a\u0003\u0001o\u0001\u0004\u0081\u0019"
+        },
+        {
+          "id": 3,
+          "source": "main.py",
+          "text": "\ufeffimport sys import os import time import json sys.path.append(os.path.dirname(os.path.dirname(os.pat"
+        },
+        {
+          "id": 4,
+          "source": "type.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u00003 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V\b\u0000\b\u0001\u0000\u0015welcome to java class \u0000 \u0000 \u0007\u0000 \u0000 \u0000\u000e\u0001\u0000\u0010j"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T14:10:29.164768",
+      "question": "what is ai?",
+      "answer": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to learn and perform tasks normally requiring human intelligence. It encompasses techniques ",
+      "latency_ms": 64808.2,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "ARCHITECTURE.md",
+        "demo.ps1",
+        "__init__.cpython-313.pyc",
+        "Makefile",
+        "main.py"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "ARCHITECTURE.md",
+          "text": "@' Architecture \u2014 AI Knowledge Assistant System Overview"
+        },
+        {
+          "id": 1,
+          "source": "demo.ps1",
+          "text": "\ufeff demo.ps1 \u00e2\u20ac\u201d Quick demo of the AI Knowledge Assistant API Run this with: .\\demo.ps1 $TOKEN = \"secr"
+        },
+        {
+          "id": 2,
+          "source": "__init__.cpython-313.pyc",
+          "text": "\u00f3 \u0000\u0000\u0000\u0000\u00fa\u00104j\u0000\u0000\u0000\u0000\u00e3\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00f3\u0004\u0000\u0000\u0000\u0095\u0000g\u0000)\u0001N\u00a9\u0000r\u0002\u0000\u0000\u0000\u00f3\u0000\u0000\u0000\u0000\u00da'D:\\ai-assistant\\backend\\api\\__init__.py"
+        },
+        {
+          "id": 3,
+          "source": "Makefile",
+          "text": "@' AI Knowledge Assistant - Makefile Usage: make <command> \u2500\u2500 Setup \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500"
+        },
+        {
+          "id": 4,
+          "source": "main.py",
+          "text": "\ufeffimport sys import os import time import json sys.path.append(os.path.dirname(os.path.dirname(os.pat"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T14:15:01.957164",
+      "question": "what is this file about? give summary",
+      "answer": "ERROR: ",
+      "latency_ms": 63012.46,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "a_str1.class",
+        "copy_array.class",
+        "pipeline.cpython-313.pyc",
+        "type.class",
+        "vector_store.cpython-313.pyc"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "a_str1.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V\b\u0000\b\u0001\u0000\u0005 java \u0000 \u0000 \u0007\u0000 \u0000 \u0000\u000e\u0001\u0000\u0010java/lang/System\u0001\u0000"
+        },
+        {
+          "id": 1,
+          "source": "copy_array.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V \u0000\b\u0000 \u0007\u0000 \u0000 \u0000 \u0001\u0000\u0002[I\u0001\u0000\u0005clone\u0001\u0000\u0014()Ljava/lang/Obj"
+        },
+        {
+          "id": 2,
+          "source": "pipeline.cpython-313.pyc",
+          "text": "\u00f3 \u0000\u0000\u0000\u0000\b\u00124j=\b\u0000\u0000\u00e3\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00f3&\u0001\u0000\u0000\u0095\u0000S\u0000S\u0001K\u0000r\u0000S\u0000S\u0001K\u0001r\u0001S\u0000S\u0002K\u0002J\u0003r\u0003 \u0000S\u0000S\u0003K\u0004J\u0005r\u0005J\u0006r\u0006 \u0000S\u0013S\u0005\u001a\u0000j\u0001r\u0007\\\bS\u0006"
+        },
+        {
+          "id": 3,
+          "source": "type.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u00003 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V\b\u0000\b\u0001\u0000\u0015welcome to java class \u0000 \u0000 \u0007\u0000 \u0000 \u0000\u000e\u0001\u0000\u0010j"
+        },
+        {
+          "id": 4,
+          "source": "vector_store.cpython-313.pyc",
+          "text": "\u00f3 \u0000\u0000\u0000\u0000X\u00144j\u000f \u0000\u0000\u00e3\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00f3\u009a\u0000\u0000\u0000\u0095\u0000S\u0000S\u0001K\u0000r\u0000S\u0000S\u0002K\u0001J\u0002r\u0002 \u0000S\u0003r\u0003S\u0004r\u0004\\\u0000R \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\"\u0000\\\u0003S\u00059\u0001"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T14:44:07.636926",
+      "question": "Hello sir how are you",
+      "answer": "Hello! I'm just an artificial intelligence here to help with questions and conversations like this one. How can I assist you today?",
+      "latency_ms": 18585.73,
+      "retrieved_count": 0,
+      "retrieved_sources": [],
+      "citation_count": 0,
+      "citations": []
+    },
+    {
+      "timestamp": "2026-06-22T14:46:26.041786",
+      "question": "Hello sir how are you i need assidstance with something\n\n",
+      "answer": "ERROR: ",
+      "latency_ms": 61482.58,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "chroma.sqlite3",
+        "product.html",
+        "__init__.cpython-313.pyc",
+        "stationary.html",
+        "!DOCTYPE.html"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "chroma.sqlite3",
+          "text": "portal. Delivery takes 3-5 business days.\",\"type\":\"faq\",\"title\":\"IT Support Guide\",\"tags\":\"it, suppo"
+        },
+        {
+          "id": 1,
+          "source": "product.html",
+          "text": "<!DOCTYPE html> <html> <head> <title>Computer Peripherals Catalog</title> </head> <body> <!-- Univer"
+        },
+        {
+          "id": 2,
+          "source": "__init__.cpython-313.pyc",
+          "text": "\u00f3 \u0000\u0000\u0000\u0000\u00fa\u00104j\u0000\u0000\u0000\u0000\u00e3\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00f3\u0004\u0000\u0000\u0000\u0095\u0000g\u0000)\u0001N\u00a9\u0000r\u0002\u0000\u0000\u0000\u00f3\u0000\u0000\u0000\u0000\u00da'D:\\ai-assistant\\backend\\api\\__init__.py"
+        },
+        {
+          "id": 3,
+          "source": "stationary.html",
+          "text": "<!DOCTYPE html> <html> <head> <title>Computer Peripherals Catalog</title> </head> <body> <h1 align=\""
+        },
+        {
+          "id": 4,
+          "source": "!DOCTYPE.html",
+          "text": "<!DOCTYPE html> <html> <head> <title>Computer Peripherals Catalog</title> </head> <body> <!-- Univer"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T14:47:22.143554",
+      "question": "what is error",
+      "answer": "Error: NullPointerException.",
+      "latency_ms": 45839.52,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "a_in2.class",
+        "type.class",
+        "copy_array.class",
+        "a_str1.class",
+        "sum_1.class"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "a_in2.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000Q \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V\u0007\u0000\b\u0001\u0000\u0019java/io/InputStreamReader \u0000 \u0000 \u0007\u0000 \u0000 \u0000\u000e"
+        },
+        {
+          "id": 1,
+          "source": "type.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u00003 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V\b\u0000\b\u0001\u0000\u0015welcome to java class \u0000 \u0000 \u0007\u0000 \u0000 \u0000\u000e\u0001\u0000\u0010j"
+        },
+        {
+          "id": 2,
+          "source": "copy_array.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V \u0000\b\u0000 \u0007\u0000 \u0000 \u0000 \u0001\u0000\u0002[I\u0001\u0000\u0005clone\u0001\u0000\u0014()Ljava/lang/Obj"
+        },
+        {
+          "id": 3,
+          "source": "a_str1.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V\b\u0000\b\u0001\u0000\u0005 java \u0000 \u0000 \u0007\u0000 \u0000 \u0000\u000e\u0001\u0000\u0010java/lang/System\u0001\u0000"
+        },
+        {
+          "id": 4,
+          "source": "sum_1.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000I \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V\u0007\u0000\b\u0001\u0000\u0017java/io/DataInputStream \u0000 \u0000 \u0007\u0000 \u0000 \u0000\u000e\u0001\u0000"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T14:49:15.791315",
+      "question": "what is ai",
+      "answer": "AI stands for Artificial Intelligence. It involves the creation of machines that can perform tasks that traditionally require human intelligence, such as visual perception, speech recognition, decisio",
+      "latency_ms": 37222.55,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "ARCHITECTURE.md",
+        "demo.ps1",
+        "__init__.cpython-313.pyc",
+        "Makefile",
+        "main.py"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "ARCHITECTURE.md",
+          "text": "@' Architecture \u2014 AI Knowledge Assistant System Overview"
+        },
+        {
+          "id": 1,
+          "source": "demo.ps1",
+          "text": "\ufeff demo.ps1 \u00e2\u20ac\u201d Quick demo of the AI Knowledge Assistant API Run this with: .\\demo.ps1 $TOKEN = \"secr"
+        },
+        {
+          "id": 2,
+          "source": "__init__.cpython-313.pyc",
+          "text": "\u00f3 \u0000\u0000\u0000\u0000\u00fa\u00104j\u0000\u0000\u0000\u0000\u00e3\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00f3\u0004\u0000\u0000\u0000\u0095\u0000g\u0000)\u0001N\u00a9\u0000r\u0002\u0000\u0000\u0000\u00f3\u0000\u0000\u0000\u0000\u00da'D:\\ai-assistant\\backend\\api\\__init__.py"
+        },
+        {
+          "id": 3,
+          "source": "Makefile",
+          "text": "@' AI Knowledge Assistant - Makefile Usage: make <command> \u2500\u2500 Setup \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500"
+        },
+        {
+          "id": 4,
+          "source": "main.py",
+          "text": "\ufeffimport sys import os import time import json sys.path.append(os.path.dirname(os.path.dirname(os.pat"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T14:49:56.486382",
+      "question": "what is AI ",
+      "answer": "Artificial Intelligence (AI) refers to the simulation of human intelligence processes by machines, especially computer systems. This includes learning (the acquisition of information and rules for usi",
+      "latency_ms": 12359.33,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "ARCHITECTURE.md",
+        "demo.ps1",
+        "__init__.cpython-313.pyc",
+        "Makefile",
+        "main.py"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "ARCHITECTURE.md",
+          "text": "@' Architecture \u2014 AI Knowledge Assistant System Overview"
+        },
+        {
+          "id": 1,
+          "source": "demo.ps1",
+          "text": "\ufeff demo.ps1 \u00e2\u20ac\u201d Quick demo of the AI Knowledge Assistant API Run this with: .\\demo.ps1 $TOKEN = \"secr"
+        },
+        {
+          "id": 2,
+          "source": "__init__.cpython-313.pyc",
+          "text": "\u00f3 \u0000\u0000\u0000\u0000\u00fa\u00104j\u0000\u0000\u0000\u0000\u00e3\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00f3\u0004\u0000\u0000\u0000\u0095\u0000g\u0000)\u0001N\u00a9\u0000r\u0002\u0000\u0000\u0000\u00f3\u0000\u0000\u0000\u0000\u00da'D:\\ai-assistant\\backend\\api\\__init__.py"
+        },
+        {
+          "id": 3,
+          "source": "Makefile",
+          "text": "@' AI Knowledge Assistant - Makefile Usage: make <command> \u2500\u2500 Setup \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500"
+        },
+        {
+          "id": 4,
+          "source": "main.py",
+          "text": "\ufeffimport sys import os import time import json sys.path.append(os.path.dirname(os.path.dirname(os.pat"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T14:53:31.364871",
+      "question": "i want you to create a pdf for me",
+      "answer": "I'm sorry, but I can't assist with that request.",
+      "latency_ms": 3249.46,
+      "retrieved_count": 0,
+      "retrieved_sources": [],
+      "citation_count": 0,
+      "citations": []
+    },
+    {
+      "timestamp": "2026-06-22T14:53:53.836640",
+      "question": "okay",
+      "answer": "Okay! How can I assist you today?",
+      "latency_ms": 2239.97,
+      "retrieved_count": 0,
+      "retrieved_sources": [],
+      "citation_count": 0,
+      "citations": []
+    },
+    {
+      "timestamp": "2026-06-22T14:55:07.830620",
+      "question": "then create a excel for me",
+      "answer": "ERROR: ",
+      "latency_ms": 61143.51,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "timetable.html",
+        "product.html",
+        "gpttimetable.html",
+        "TYPE.html",
+        "pa1.py"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "timetable.html",
+          "text": "<!DOCTYPE html> <html> <title>Ankita's webpage</title> <table Border = 1 Align =\"left\"> <caption>Tim"
+        },
+        {
+          "id": 1,
+          "source": "product.html",
+          "text": "<!DOCTYPE html> <html> <head> <title>Computer Peripherals Catalog</title> </head> <body> <!-- Univer"
+        },
+        {
+          "id": 2,
+          "source": "gpttimetable.html",
+          "text": "<!DOCTYPE html> <html> <title>Ankita's webpage</title> <style> table { border-collapse: collapse; wi"
+        },
+        {
+          "id": 3,
+          "source": "TYPE.html",
+          "text": "<!DOCTYPE html> <html> <head> <title>Computer Peripherals Catalog</title> </head> <body <!-- Univers"
+        },
+        {
+          "id": 4,
+          "source": "pa1.py",
+          "text": "row=int(input(\"enter the number of rows\")) for i in range(row): for j in range(i+1): print(i+1) prin"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T15:06:44.584944",
+      "question": "what is AI ",
+      "answer": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to learn and perform tasks independently.",
+      "latency_ms": 40016.79,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "ARCHITECTURE.md",
+        "demo.ps1",
+        "__init__.cpython-313.pyc",
+        "Makefile",
+        "main.py"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "ARCHITECTURE.md",
+          "text": "@' Architecture \u2014 AI Knowledge Assistant System Overview"
+        },
+        {
+          "id": 1,
+          "source": "demo.ps1",
+          "text": "\ufeff demo.ps1 \u00e2\u20ac\u201d Quick demo of the AI Knowledge Assistant API Run this with: .\\demo.ps1 $TOKEN = \"secr"
+        },
+        {
+          "id": 2,
+          "source": "__init__.cpython-313.pyc",
+          "text": "\u00f3 \u0000\u0000\u0000\u0000\u00fa\u00104j\u0000\u0000\u0000\u0000\u00e3\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00f3\u0004\u0000\u0000\u0000\u0095\u0000g\u0000)\u0001N\u00a9\u0000r\u0002\u0000\u0000\u0000\u00f3\u0000\u0000\u0000\u0000\u00da'D:\\ai-assistant\\backend\\api\\__init__.py"
+        },
+        {
+          "id": 3,
+          "source": "Makefile",
+          "text": "@' AI Knowledge Assistant - Makefile Usage: make <command> \u2500\u2500 Setup \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500"
+        },
+        {
+          "id": 4,
+          "source": "main.py",
+          "text": "\ufeffimport sys import os import time import json sys.path.append(os.path.dirname(os.path.dirname(os.pat"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-23T11:51:18.823897",
+      "question": "what is error",
+      "answer": "Error refers to an unexpected problem or abnormal situation.",
+      "latency_ms": 59486.44,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "a_in2.class",
+        "type.class",
+        "copy_array.class",
+        "a_str1.class",
+        "sum_1.class"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "a_in2.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000Q \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V\u0007\u0000\b\u0001\u0000\u0019java/io/InputStreamReader \u0000 \u0000 \u0007\u0000 \u0000 \u0000\u000e"
+        },
+        {
+          "id": 1,
+          "source": "type.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u00003 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V\b\u0000\b\u0001\u0000\u0015welcome to java class \u0000 \u0000 \u0007\u0000 \u0000 \u0000\u000e\u0001\u0000\u0010j"
+        },
+        {
+          "id": 2,
+          "source": "copy_array.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V \u0000\b\u0000 \u0007\u0000 \u0000 \u0000 \u0001\u0000\u0002[I\u0001\u0000\u0005clone\u0001\u0000\u0014()Ljava/lang/Obj"
+        },
+        {
+          "id": 3,
+          "source": "a_str1.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V\b\u0000\b\u0001\u0000\u0005 java \u0000 \u0000 \u0007\u0000 \u0000 \u0000\u000e\u0001\u0000\u0010java/lang/System\u0001\u0000"
+        },
+        {
+          "id": 4,
+          "source": "sum_1.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000I \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V\u0007\u0000\b\u0001\u0000\u0017java/io/DataInputStream \u0000 \u0000 \u0007\u0000 \u0000 \u0000\u000e\u0001\u0000"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-23T12:03:04.079652",
+      "question": "what error explain ",
+      "answer": "ERROR: ",
+      "latency_ms": 61066.25,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "a_in2.class",
+        "chroma.sqlite3",
+        "copy_array.class",
+        "a_str1.class",
+        "type.class"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "a_in2.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000Q \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V\u0007\u0000\b\u0001\u0000\u0019java/io/InputStreamReader \u0000 \u0000 \u0007\u0000 \u0000 \u0000\u000e"
+        },
+        {
+          "id": 1,
+          "source": "chroma.sqlite3",
+          "text": "\u0004\u0019\u0001\u0001metadb\u0004\u000e \u0004\u0019\u0001\u0001metadb\u0003 \u0004\u0019\u0001\u0001metadb\u0002 \u0004\u0019 \u0001metadb \u0004\u0017\u0001\u0001sysdb \u0004\u0017\u0001\u0001sysdb \u0004\u0017\u0001\u0001sysdb\b\b \u0004\u0017\u0001\u0001sysdb\u0007\u0007 \u0004\u0017\u0001\u0001sysd"
+        },
+        {
+          "id": 2,
+          "source": "copy_array.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V \u0000\b\u0000 \u0007\u0000 \u0000 \u0000 \u0001\u0000\u0002[I\u0001\u0000\u0005clone\u0001\u0000\u0014()Ljava/lang/Obj"
+        },
+        {
+          "id": 3,
+          "source": "a_str1.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V\b\u0000\b\u0001\u0000\u0005 java \u0000 \u0000 \u0007\u0000 \u0000 \u0000\u000e\u0001\u0000\u0010java/lang/System\u0001\u0000"
+        },
+        {
+          "id": 4,
+          "source": "type.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u00003 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V\b\u0000\b\u0001\u0000\u0015welcome to java class \u0000 \u0000 \u0007\u0000 \u0000 \u0000\u000e\u0001\u0000\u0010j"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-24T09:01:04.292012",
+      "question": "what is ai?",
+      "answer": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and act like humans. It encompasses various fields such as machine learning, natura",
+      "latency_ms": 50111.34,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "ARCHITECTURE.md",
+        "demo.ps1",
+        "__init__.cpython-313.pyc",
+        "Makefile",
+        "main.py"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "ARCHITECTURE.md",
+          "text": "@' Architecture \u2014 AI Knowledge Assistant System Overview"
+        },
+        {
+          "id": 1,
+          "source": "demo.ps1",
+          "text": "\ufeff demo.ps1 \u00e2\u20ac\u201d Quick demo of the AI Knowledge Assistant API Run this with: .\\demo.ps1 $TOKEN = \"secr"
+        },
+        {
+          "id": 2,
+          "source": "__init__.cpython-313.pyc",
+          "text": "\u00f3 \u0000\u0000\u0000\u0000\u00fa\u00104j\u0000\u0000\u0000\u0000\u00e3\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00f3\u0004\u0000\u0000\u0000\u0095\u0000g\u0000)\u0001N\u00a9\u0000r\u0002\u0000\u0000\u0000\u00f3\u0000\u0000\u0000\u0000\u00da'D:\\ai-assistant\\backend\\api\\__init__.py"
+        },
+        {
+          "id": 3,
+          "source": "Makefile",
+          "text": "@' AI Knowledge Assistant - Makefile Usage: make <command> \u2500\u2500 Setup \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500"
+        },
+        {
+          "id": 4,
+          "source": "main.py",
+          "text": "\ufeffimport sys import os import time import json sys.path.append(os.path.dirname(os.path.dirname(os.pat"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-24T09:29:20.924978",
+      "question": "what is this file about?",
+      "answer": "I'm sorry, I couldn't generate an answer right now. Please try again later.",
+      "latency_ms": 61949.07,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "a_str1.class",
+        "copy_array.class",
+        "type.class",
+        "pipeline.cpython-313.pyc",
+        "Makefile"
+      ],
+      "citation_count": 0,
+      "citations": []
+    },
+    {
+      "timestamp": "2026-06-24T09:40:34.136702",
+      "question": "what is this file about? give summary",
+      "answer": "I'm sorry, I couldn't generate an answer right now. Please try again later.",
+      "latency_ms": 77606.73,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "a_str1.class",
+        "copy_array.class",
+        "pipeline.cpython-313.pyc",
+        "type.class",
+        "vector_store.cpython-313.pyc"
+      ],
+      "citation_count": 0,
+      "citations": []
+    },
+    {
+      "timestamp": "2026-06-24T09:41:06.987429",
+      "question": "who is the pm of india?",
+      "answer": "The Prime Minister of India is Narendra Modi.",
+      "latency_ms": 2837.72,
+      "retrieved_count": 0,
+      "retrieved_sources": [],
+      "citation_count": 0,
+      "citations": []
+    },
+    {
+      "timestamp": "2026-06-24T09:42:07.643857",
+      "question": "what is machine learning?",
+      "answer": "Machine Learning (ML) is a branch of artificial intelligence that focuses on developing algorithms and models that allow computers to learn from data, improve their performance without being explicitl",
+      "latency_ms": 31937.49,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "ARCHITECTURE.md",
+        "java dp assignment.pdf",
+        "evaluate.py",
+        "LeapYear.java",
+        "message.java"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "ARCHITECTURE.md",
+          "text": "@' Architecture \u2014 AI Knowledge Assistant System Overview"
+        },
+        {
+          "id": 1,
+          "source": "java dp assignment.pdf",
+          "text": "1. What are the main features of Java? 2. Difference between JDK, JRE, and JVM. 3. Explain platform "
+        },
+        {
+          "id": 2,
+          "source": "evaluate.py",
+          "text": "import json import requests import time API_URL = \"http://localhost:8000/ask\" def ask(question: str)"
+        },
+        {
+          "id": 3,
+          "source": "LeapYear.java",
+          "text": "import java.util.Scanner; public class LeapYear { public static void main(String[] args) { Scanner S"
+        },
+        {
+          "id": 4,
+          "source": "message.java",
+          "text": "class type { public static void main(Strin args[]) throws InterruptedException { String message=\"wel"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-24T10:37:16.855295",
+      "question": "hello how are you?",
+      "answer": "Hello! I'm doing great, thanks for asking. How about you? Is there anything specific you'd like to talk about or ask me today?",
+      "latency_ms": 10929.75,
+      "retrieved_count": 0,
+      "retrieved_sources": [],
+      "citation_count": 0,
+      "citations": []
+    },
+    {
+      "timestamp": "2026-06-24T10:41:50.129063",
+      "question": "what you can do for me",
+      "answer": "As an artificial intelligence language model, there are several things I can help with:\n\n  * Answering questions or providing information on various topics.\n  * Engaging in conversations about a wide ",
+      "latency_ms": 14613.98,
+      "retrieved_count": 0,
+      "retrieved_sources": [],
+      "citation_count": 0,
+      "citations": []
+    },
+    {
+      "timestamp": "2026-06-24T10:42:42.939821",
+      "question": "what you can do for me i need some help",
+      "answer": "I'm here to help! What specific task or issue are you facing that could use some assistance? Whether it's with technology, organization, communication, or any other area, just let me know the details ",
+      "latency_ms": 4644.1,
+      "retrieved_count": 0,
+      "retrieved_sources": [],
+      "citation_count": 0,
+      "citations": []
+    },
+    {
+      "timestamp": "2026-06-24T10:44:21.704745",
+      "question": "i need help with edit  ext",
+      "answer": "I'm sorry, I couldn't generate an answer right now. Please try again later.",
+      "latency_ms": 61199.52,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "Text Formatting Example4.html",
+        "timetable.html",
+        "assign.html",
+        "chroma.sqlite3",
+        "gpttimetable.html"
+      ],
+      "citation_count": 0,
+      "citations": []
+    },
+    {
+      "timestamp": "2026-06-24T10:46:23.923011",
+      "question": "hello",
+      "answer": "I'm sorry, I couldn't generate an answer right now. Please try again later.",
+      "latency_ms": 61887.56,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "length.bin",
+        "doc_2.json",
+        "data_level0.bin",
+        "if.py",
+        "header.bin"
+      ],
+      "citation_count": 0,
+      "citations": []
+    },
+    {
+      "timestamp": "2026-06-24T10:47:06.817648",
+      "question": "what you can do for me i need some help",
+      "answer": "I'm here to help! Please tell me more about what you need assistance with, and I'll do my best to assist you.",
+      "latency_ms": 3324.09,
+      "retrieved_count": 0,
+      "retrieved_sources": [],
+      "citation_count": 0,
+      "citations": []
+    },
+    {
+      "timestamp": "2026-06-24T10:49:19.626735",
+      "question": "sharepoint",
+      "answer": "The company's culture handbook is located at `https://company.sharepoint.com/culture`. To access it, log in using Single Sign-On (SSO).",
+      "latency_ms": 29455.46,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "doc_2.json",
+        "chroma.sqlite3",
+        "oops1.java",
+        "warmup task day 1.docx",
+        "doc_6.md"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "doc_2.json",
+          "text": "Day 1 (Monday): - HR welcome meeting at 9 AM - Laptop & equipment setup - Building access card setup"
+        },
+        {
+          "id": 1,
+          "source": "chroma.sqlite3",
+          "text": "do I connect to the VPN? A: Download Cisco AnyConnect from the IT portal. Use vpn.techcorp.io as the"
+        },
+        {
+          "id": 2,
+          "source": "oops1.java",
+          "text": "import java.util.; class oops { Scanner in=new Scanner(System.in); int x,y,z; void input() { System."
+        },
+        {
+          "id": 3,
+          "source": "warmup task day 1.docx",
+          "text": "your digital identity with FloCard. Exchange personal and contact details electronically. Interact a"
+        },
+        {
+          "id": 4,
+          "source": "doc_6.md",
+          "text": "Common Questions & Troubleshooting Type: faq Tags: faq, troubleshooting, support Date: 2024-03-10 --"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-24T10:51:15.868225",
+      "question": "what is sharepoint",
+      "answer": "SharePoint is an enterprise collaboration software tool developed by Microsoft that provides storage, sharing, and retrieval of documents in a web-based manner. It can be used for creating shared docu",
+      "latency_ms": 6103.54,
+      "retrieved_count": 0,
+      "retrieved_sources": [],
+      "citation_count": 0,
+      "citations": []
+    },
+    {
+      "timestamp": "2026-06-24T10:58:24.253620",
+      "question": "dotnet",
+      "answer": "I'm sorry, I couldn't generate an answer right now. Please try again later.",
+      "latency_ms": 61717.98,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "ARCHITECTURE.md",
+        "chroma.sqlite3",
+        "message.java",
+        "it_support_guide.md",
+        "chroma.sqlite3"
+      ],
+      "citation_count": 0,
+      "citations": []
+    },
+    {
+      "timestamp": "2026-06-24T10:59:32.680767",
+      "question": "do one thig repgrASE FOLLOWING STUFFS IN SINGLE PARAGRAPH\" HELLO I AM SOMEONE TESTING YOU WH THK FFH LL",
+      "answer": "I'm sorry, I couldn't generate an answer right now. Please try again later.",
+      "latency_ms": 61674.32,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "assign.html",
+        "rag.cpython-313.pyc",
+        "chunker.cpython-313.pyc",
+        "chunker.py",
+        "Text Formatting Example4.html"
+      ],
+      "citation_count": 0,
+      "citations": []
+    },
+    {
+      "timestamp": "2026-06-24T11:00:49.178754",
+      "question": "GENERATE SUMMARY",
+      "answer": "### Summary:\n\nThis context primarily discusses SQL scripts related to database schema modifications and table creation. The provided SQLite scripts cover various tables such as `collections`, `segment",
+      "latency_ms": 59806.1,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "chroma.sqlite3",
+        "timetable.html",
+        "a_a1.java",
+        "company_overview.json",
+        "sum_1.java"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "chroma.sqlite3",
+          "text": "id, name, topic, dimension, '00000000-0000-0000-0000-000000000000' FROM collections; DROP TABLE coll"
+        },
+        {
+          "id": 1,
+          "source": "timetable.html",
+          "text": "<!DOCTYPE html> <html> <title>Ankita's webpage</title> <table Border = 1 Align =\"left\"> <caption>Tim"
+        },
+        {
+          "id": 2,
+          "source": "a_a1.java",
+          "text": "class a_a1 public static void main(String args[]) { string a,b; int p,y,q; a=args[0]; b=args[1]; p=I"
+        },
+        {
+          "id": 3,
+          "source": "company_overview.json",
+          "text": "{\"title\": \"Company Overview\", \"type\": \"company\", \"tags\": [\"company\", \"overview\", \"internal\"], \"date\""
+        },
+        {
+          "id": 4,
+          "source": "sum_1.java",
+          "text": "import java.io.; class sum_1 { public static void main(String[] args) throws IOException { int a,b, "
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-24T11:03:40.694200",
+      "question": "WHAT DO YOU UNDERSTAND BY FLOCARD",
+      "answer": "I'm sorry, I couldn't generate an answer right now. Please try again later.",
+      "latency_ms": 61170.0,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "warmup task day 1.docx",
+        "warmup task day 1.docx",
+        "chroma.sqlite3",
+        "chroma.sqlite3",
+        "chroma.sqlite3"
+      ],
+      "citation_count": 0,
+      "citations": []
+    },
+    {
+      "timestamp": "2026-06-24T11:05:06.152566",
+      "question": "WHAT IS FLOCARD",
+      "answer": "I'm sorry, I couldn't generate an answer right now. Please try again later.",
+      "latency_ms": 61009.4,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "warmup task day 1.docx",
+        "warmup task day 1.docx",
+        "copy_array.class",
+        "chroma.sqlite3",
+        "chroma.sqlite3"
+      ],
+      "citation_count": 0,
+      "citations": []
+    },
+    {
+      "timestamp": "2026-06-24T11:18:00.145479",
+      "question": "WHAT IS FLOCARD",
+      "answer": "Flocard is an advanced content management system that combines the power of Microsoft Word and Google Docs to provide a user-friendly interface for creating, editing, collaborating on, managing, and o",
+      "latency_ms": 113916.46,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "warmup task day 1.docx",
+        "warmup task day 1.docx",
+        "copy_array.class",
+        "chroma.sqlite3",
+        "chroma.sqlite3"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "warmup task day 1.docx",
+          "text": "366Pi Technologies Official Website (in.linkedin.com) 1 key takeaways of 366 pi FloCard: FloCard has"
+        },
+        {
+          "id": 1,
+          "source": "warmup task day 1.docx",
+          "text": "your digital identity with FloCard. Exchange personal and contact details electronically. Interact a"
+        },
+        {
+          "id": 2,
+          "source": "copy_array.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V \u0000\b\u0000 \u0007\u0000 \u0000 \u0000 \u0001\u0000\u0002[I\u0001\u0000\u0005clone\u0001\u0000\u0014()Ljava/lang/Obj"
+        },
+        {
+          "id": 3,
+          "source": "chroma.sqlite3",
+          "text": "\u0004\u0019\u0001\u0001metadb\u0004\u000e \u0004\u0019\u0001\u0001metadb\u0003 \u0004\u0019\u0001\u0001metadb\u0002 \u0004\u0019 \u0001metadb \u0004\u0017\u0001\u0001sysdb \u0004\u0017\u0001\u0001sysdb \u0004\u0017\u0001\u0001sysdb\b\b \u0004\u0017\u0001\u0001sysdb\u0007\u0007 \u0004\u0017\u0001\u0001sysd"
+        },
+        {
+          "id": 4,
+          "source": "chroma.sqlite3",
+          "text": "\u0001\u0002/\u0001\u0003201\u0001\u0002-\u0001\u00033 o\u0001\u0002t\u0001\u00036pm\u0001\u0004\u0082+\u0001\u00038 w\u0001\u00020\u0001\u00039am\u0001\u0004\u0082$\u0001\u0003: n\u0001\u0002}\u0001\u0003a m\u0001\u00027\u0002\u0002ge\u0001\u0002c\u0002\u0002h \u0001\u0004\u0081h\u0002\u0002j \u0001\u0004\u0081}\u0002\u0002l \u0001\u0006S\u0081a\u0003\u0001o\u0001\u0004\u0081\u0019"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-24T11:19:48.782160",
+      "question": "WHAT IS FLOCARD?",
+      "answer": "I'm sorry, I couldn't generate an answer right now. Please try again later.",
+      "latency_ms": 69826.56,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "warmup task day 1.docx",
+        "warmup task day 1.docx",
+        "copy_array.class",
+        "chroma.sqlite3",
+        "chroma.sqlite3"
+      ],
+      "citation_count": 0,
+      "citations": []
+    },
+    {
+      "timestamp": "2026-06-24T11:26:32.507202",
+      "question": "what is flocard?",
+      "answer": "Flocard is not defined in the provided text, so I don't have enough context to give a specific answer about what Flocard is or how it relates to this guide or information. It could refer to any number",
+      "latency_ms": 96724.95,
+      "retrieved_count": 5,
+      "retrieved_sources": [
+        "warmup task day 1.docx",
+        "warmup task day 1.docx",
+        "copy_array.class",
+        "chroma.sqlite3",
+        "chroma.sqlite3"
+      ],
+      "citation_count": 5,
+      "citations": [
+        {
+          "id": 0,
+          "source": "warmup task day 1.docx",
+          "text": "366Pi Technologies Official Website (in.linkedin.com) 1 key takeaways of 366 pi FloCard: FloCard has"
+        },
+        {
+          "id": 1,
+          "source": "warmup task day 1.docx",
+          "text": "your digital identity with FloCard. Exchange personal and contact details electronically. Interact a"
+        },
+        {
+          "id": 2,
+          "source": "copy_array.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V \u0000\b\u0000 \u0007\u0000 \u0000 \u0000 \u0001\u0000\u0002[I\u0001\u0000\u0005clone\u0001\u0000\u0014()Ljava/lang/Obj"
+        },
+        {
+          "id": 3,
+          "source": "chroma.sqlite3",
+          "text": "\u0004\u0019\u0001\u0001metadb\u0004\u000e \u0004\u0019\u0001\u0001metadb\u0003 \u0004\u0019\u0001\u0001metadb\u0002 \u0004\u0019 \u0001metadb \u0004\u0017\u0001\u0001sysdb \u0004\u0017\u0001\u0001sysdb \u0004\u0017\u0001\u0001sysdb\b\b \u0004\u0017\u0001\u0001sysdb\u0007\u0007 \u0004\u0017\u0001\u0001sysd"
+        },
+        {
+          "id": 4,
+          "source": "chroma.sqlite3",
+          "text": "\u0001\u0002/\u0001\u0003201\u0001\u0002-\u0001\u00033 o\u0001\u0002t\u0001\u00036pm\u0001\u0004\u0082+\u0001\u00038 w\u0001\u00020\u0001\u00039am\u0001\u0004\u0082$\u0001\u0003: n\u0001\u0002}\u0001\u0003a m\u0001\u00027\u0002\u0002ge\u0001\u0002c\u0002\u0002h \u0001\u0004\u0081h\u0002\u0002j \u0001\u0004\u0081}\u0002\u0002l \u0001\u0006S\u0081a\u0003\u0001o\u0001\u0004\u0081\u0019"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-24T11:31:49.274974",
+      "question": "what is flocard?",
+      "answer": "I'm sorry, I couldn't generate an answer right now. Please try again later.",
+      "latency_ms": 68889.32,
+      "retrieved_count": 8,
+      "retrieved_sources": [
+        "warmup task day 1.docx",
+        "warmup task day 1.docx",
+        "copy_array.class",
+        "chroma.sqlite3",
+        "chroma.sqlite3",
+        "chroma.sqlite3",
+        "vector_store.cpython-313.pyc",
+        "chroma.sqlite3"
+      ],
+      "citation_count": 0,
+      "citations": []
+    },
+    {
+      "timestamp": "2026-06-24T11:36:24.682890",
+      "question": "what is flocard?",
+      "answer": "Flocard refers to a French wine region known for its distinctive and high-quality wines. The name \"Flocard\" comes from the village in the Loire Valley where it originated. This area produces both whit",
+      "latency_ms": 55111.26,
+      "retrieved_count": 8,
+      "retrieved_sources": [
+        "warmup task day 1.docx",
+        "warmup task day 1.docx",
+        "copy_array.class",
+        "chroma.sqlite3",
+        "chroma.sqlite3",
+        "chroma.sqlite3",
+        "vector_store.cpython-313.pyc",
+        "chroma.sqlite3"
+      ],
+      "citation_count": 8,
+      "citations": [
+        {
+          "id": 0,
+          "source": "warmup task day 1.docx",
+          "text": "366Pi Technologies Official Website (in.linkedin.com) 1 key takeaways of 366 pi FloCard: FloCard has"
+        },
+        {
+          "id": 1,
+          "source": "warmup task day 1.docx",
+          "text": "your digital identity with FloCard. Exchange personal and contact details electronically. Interact a"
+        },
+        {
+          "id": 2,
+          "source": "copy_array.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V \u0000\b\u0000 \u0007\u0000 \u0000 \u0000 \u0001\u0000\u0002[I\u0001\u0000\u0005clone\u0001\u0000\u0014()Ljava/lang/Obj"
+        },
+        {
+          "id": 3,
+          "source": "chroma.sqlite3",
+          "text": "\u0004\u0019\u0001\u0001metadb\u0004\u000e \u0004\u0019\u0001\u0001metadb\u0003 \u0004\u0019\u0001\u0001metadb\u0002 \u0004\u0019 \u0001metadb \u0004\u0017\u0001\u0001sysdb \u0004\u0017\u0001\u0001sysdb \u0004\u0017\u0001\u0001sysdb\b\b \u0004\u0017\u0001\u0001sysdb\u0007\u0007 \u0004\u0017\u0001\u0001sysd"
+        },
+        {
+          "id": 4,
+          "source": "chroma.sqlite3",
+          "text": "\u0001\u0002/\u0001\u0003201\u0001\u0002-\u0001\u00033 o\u0001\u0002t\u0001\u00036pm\u0001\u0004\u0082+\u0001\u00038 w\u0001\u00020\u0001\u00039am\u0001\u0004\u0082$\u0001\u0003: n\u0001\u0002}\u0001\u0003a m\u0001\u00027\u0002\u0002ge\u0001\u0002c\u0002\u0002h \u0001\u0004\u0081h\u0002\u0002j \u0001\u0004\u0081}\u0002\u0002l \u0001\u0006S\u0081a\u0003\u0001o\u0001\u0004\u0081\u0019"
+        },
+        {
+          "id": 5,
+          "source": "chroma.sqlite3",
+          "text": "\u0005\u0005 \u0005\u0007 \u0007\u0005\u0007\u0007 \u0005\u0007\u0005\u0007\b\u0006\u0005\u0005\b\u0005\b\u0005\u0006\u0005\u0005 \u0007\u0005\u0005\u0006 \u0005\u0005\u0007 \u0007\u0005\u0007\u0005 \u0007\u0006 \u0005\u000f\u0005\u0005\u0005\u0007\u0006 \u0005\u0005 \u0007 \u0005\u0005\u0006\u0012\u0005\u0007\u0005\u0006\b\u0005 \u0005\u0007\u0006\u0005\u0006\u0005\u0007\u0005\u0006\b \u0006\u0005 \b\u0006\u0006\u0005 \u0005\u0006\u0005\u0006\u0005\u0006\u0007\u0005 \u0005\b\u0007\u0005"
+        },
+        {
+          "id": 6,
+          "source": "vector_store.cpython-313.pyc",
+          "text": "\u00f3 \u0000\u0000\u0000\u0000X\u00144j\u000f \u0000\u0000\u00e3\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00f3\u009a\u0000\u0000\u0000\u0095\u0000S\u0000S\u0001K\u0000r\u0000S\u0000S\u0002K\u0001J\u0002r\u0002 \u0000S\u0003r\u0003S\u0004r\u0004\\\u0000R \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\"\u0000\\\u0003S\u00059\u0001"
+        },
+        {
+          "id": 7,
+          "source": "chroma.sqlite3",
+          "text": "portal. Delivery takes 3-5 business days.\",\"type\":\"faq\",\"title\":\"IT Support Guide\",\"tags\":\"it, suppo"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-24T11:37:05.392331",
+      "question": "hello! what's up",
+      "answer": "Hello! I'm doing well, thank you for asking. How can I assist you today?",
+      "latency_ms": 3173.37,
+      "retrieved_count": 0,
+      "retrieved_sources": [],
+      "citation_count": 0,
+      "citations": []
+    },
+    {
+      "timestamp": "2026-06-24T11:41:02.181621",
+      "question": "what is ai",
+      "answer": "Artificial Intelligence (AI) refers to the development and use of computer systems that can perform tasks requiring human intelligence. It encompasses a wide range of techniques, algorithms, and techn",
+      "latency_ms": 134502.4,
+      "retrieved_count": 8,
+      "retrieved_sources": [
+        "ARCHITECTURE.md",
+        "demo.ps1",
+        "__init__.cpython-313.pyc",
+        "Makefile",
+        "main.py",
+        "chroma.sqlite3",
+        "chroma.sqlite3",
+        "copy_array.class"
+      ],
+      "citation_count": 8,
+      "citations": [
+        {
+          "id": 0,
+          "source": "ARCHITECTURE.md",
+          "text": "@' Architecture \u2014 AI Knowledge Assistant System Overview"
+        },
+        {
+          "id": 1,
+          "source": "demo.ps1",
+          "text": "\ufeff demo.ps1 \u00e2\u20ac\u201d Quick demo of the AI Knowledge Assistant API Run this with: .\\demo.ps1 $TOKEN = \"secr"
+        },
+        {
+          "id": 2,
+          "source": "__init__.cpython-313.pyc",
+          "text": "\u00f3 \u0000\u0000\u0000\u0000\u00fa\u00104j\u0000\u0000\u0000\u0000\u00e3\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00f3\u0004\u0000\u0000\u0000\u0095\u0000g\u0000)\u0001N\u00a9\u0000r\u0002\u0000\u0000\u0000\u00f3\u0000\u0000\u0000\u0000\u00da'D:\\ai-assistant\\backend\\api\\__init__.py"
+        },
+        {
+          "id": 3,
+          "source": "Makefile",
+          "text": "@' AI Knowledge Assistant - Makefile Usage: make <command> \u2500\u2500 Setup \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500"
+        },
+        {
+          "id": 4,
+          "source": "main.py",
+          "text": "\ufeffimport sys import os import time import json sys.path.append(os.path.dirname(os.path.dirname(os.pat"
+        },
+        {
+          "id": 5,
+          "source": "chroma.sqlite3",
+          "text": "O\u0003\u0001s\u0003\u0004\u0083\u0015\u0003\u0001t\u0003\u0006O\u0081\u0010\u0002\u0002o \u0003\u0004\u0082I\u0002\u0002pe\u0003\u0004\u0084X\u0002\u0002rs\u0003\u0004\u0081\u0002\u0002s \u0003\u0004\u0081\u0000\u0003\u0001c\u0003\u0004\u0082\u0014\u0003\u0001e\u0003\u0004\u0081A\u0002\u0002t \u0003\u0016\u0004\u0081$\u0081 \u0081+\u00178r \u0003\u0001-\u0003\u0004\u0083<\u0003\u0001.\u0003\u0004\u0081Q\u0003\u0001o\u0003\u0004 \u0004\u0002"
+        },
+        {
+          "id": 6,
+          "source": "chroma.sqlite3",
+          "text": "\u0006\u0002\u0015\u0002\u0002qu\u0006\u0004\u0083]\u0002\u0002r \u0006\u0004\u0083y\u0003\u0001e\u0006\u0004\u0082@\u0003\u0001f\u0006\u0004\u0082G\u0003\u0001n\u0006\u0006\u00810`\u0003\u0001y\u0006\u0002Y\u0002\u0002s \u0006\u0006,\u0082C\u0003\u0001,\u0006\u0004\u0082]\u0003\u0001.\u0006\u0004\u0083 \u0003\u0001?\u0006\u0004\u0081m\u0003\u0001s\u0006\u0002s\u0003\u0001t\u0006\u0004\u0083`\u0002\u0002t \u0006\u0004\u0082\u0003\u0001a"
+        },
+        {
+          "id": 7,
+          "source": "copy_array.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000 \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V \u0000\b\u0000 \u0007\u0000 \u0000 \u0000 \u0001\u0000\u0002[I\u0001\u0000\u0005clone\u0001\u0000\u0014()Ljava/lang/Obj"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-24T13:19:35.894375",
+      "question": "what is machine learning?",
+      "answer": "Machine learning is a subfield of artificial intelligence that focuses on the development and application of algorithms to enable systems to automatically learn from and make predictions or decisions ",
+      "latency_ms": 82125.39,
+      "retrieved_count": 8,
+      "retrieved_sources": [
+        "ARCHITECTURE.md",
+        "java dp assignment.pdf",
+        "evaluate.py",
+        "LeapYear.java",
+        "message.java",
+        "calender.java",
+        "LeapYear.class",
+        "oops1.java"
+      ],
+      "citation_count": 8,
+      "citations": [
+        {
+          "id": 0,
+          "source": "ARCHITECTURE.md",
+          "text": "@' Architecture \u2014 AI Knowledge Assistant System Overview"
+        },
+        {
+          "id": 1,
+          "source": "java dp assignment.pdf",
+          "text": "1. What are the main features of Java? 2. Difference between JDK, JRE, and JVM. 3. Explain platform "
+        },
+        {
+          "id": 2,
+          "source": "evaluate.py",
+          "text": "import json import requests import time API_URL = \"http://localhost:8000/ask\" def ask(question: str)"
+        },
+        {
+          "id": 3,
+          "source": "LeapYear.java",
+          "text": "import java.util.Scanner; public class LeapYear { public static void main(String[] args) { Scanner S"
+        },
+        {
+          "id": 4,
+          "source": "message.java",
+          "text": "class type { public static void main(Strin args[]) throws InterruptedException { String message=\"wel"
+        },
+        {
+          "id": 5,
+          "source": "calender.java",
+          "text": "class a_a1 public class LeapYear { public static void main(String[] args) { Scanner scanner = new Sc"
+        },
+        {
+          "id": 6,
+          "source": "LeapYear.class",
+          "text": "\u00ca\u00fe\u00ba\u00be\u0000\u0000\u0000D\u0000G \u0000\u0002\u0000\u0003\u0007\u0000\u0004 \u0000\u0005\u0000\u0006\u0001\u0000\u0010java/lang/Object\u0001\u0000\u0006<init>\u0001\u0000\u0003()V\u0007\u0000\b\u0001\u0000\u0011java/util/Scanner \u0000 \u0000 \u0007\u0000 \u0000 \u0000\u000e\u0001\u0000\u0010java/"
+        },
+        {
+          "id": 7,
+          "source": "oops1.java",
+          "text": "import java.util.; class oops { Scanner in=new Scanner(System.in); int x,y,z; void input() { System."
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-24T13:20:29.745446",
+      "question": "what is software engineering?",
+      "answer": "Software Engineering is the application of scientific method, technology, and systems theory to design, develop, test, implement, and maintain software. It involves a systematic approach to software d",
+      "latency_ms": 8152.25,
+      "retrieved_count": 0,
+      "retrieved_sources": [],
+      "citation_count": 0,
+      "citations": []
+    },
+    {
+      "timestamp": "2026-06-24T13:21:09.535359",
+      "question": "which team won ipl2026",
+      "answer": "As of my last update in October 2023, there were no specific teams confirmed to win the Indian Premier League (IPL) 2026. The IPL has had a competitive season with various top teams participating and ",
+      "latency_ms": 6836.61,
+      "retrieved_count": 0,
+      "retrieved_sources": [],
+      "citation_count": 0,
+      "citations": []
+    },
+    {
+      "timestamp": "2026-06-24T15:00:31.993007",
+      "question": "water bottle",
+      "answer": "A water bottle is a container used for carrying and holding drinking water. It typically consists of a body made of plastic or glass with a top that can be opened to pour the contents into the mouth. ",
+      "latency_ms": 13409.68,
+      "retrieved_count": 0,
+      "retrieved_sources": [],
+      "citation_count": 0,
+      "citations": []
+    }
+  ]
+}

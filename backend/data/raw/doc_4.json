@@ -1,0 +1,11 @@
+{
+  "title": "Development Environment Setup",
+  "content": "Setting up your development environment:\n\nPrerequisites:\n- Git (v2.40+)\n- Python 3.11+\n- Node.js 18+ (for frontend)\n- Docker (for local testing)\n- PostgreSQL 15\n\nSteps:\n1. Clone repo: git clone https://github.com/company/project.git\n2. Backend setup:\n   - cd backend\n   - python -m venv venv\n   - source venv/bin/activate\n   - pip install -r requirements.txt\n   - cp .env.example .env\n   - Edit .env with your values\n3. Database:\n   - createdb company_dev\n   - python manage.py migrate\n4. Frontend setup:\n   - cd ../frontend\n   - npm install\n   - npm run dev\n5. Start backend:\n   - cd ../backend\n   - python manage.py runserver\n6. Access at http://localhost:3000\n\nTroubleshooting:\n- Port conflicts: Change PORT in .env\n- Database errors: Ensure PostgreSQL is running\n- Dependencies: Run pip install --upgrade -r requirements.txt",
+  "tags": [
+    "setup",
+    "development",
+    "tutorial"
+  ],
+  "type": "tutorial",
+  "date": "2024-02-15"
+}

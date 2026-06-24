@@ -1,0 +1,11 @@
+{
+  "title": "Architecture Overview & System Design",
+  "content": "High-level Architecture:\n\nFrontend (React + Next.js):\n- Static site generation (SSG) for public pages\n- Client-side rendering for dashboard\n- API calls via axios\n- State management: Redux\n- Hosted on Vercel CDN\n\nBackend (Python FastAPI):\n- REST API with OpenAPI docs\n- Async task processing with Celery\n- Database: PostgreSQL + Redis cache\n- Authentication: JWT + OAuth2\n- Hosted on AWS EC2 (auto-scaling group)\n\nData Pipeline:\n- Ingestion: S3 → Lambda → PostgreSQL\n- Processing: Celery workers (3x standard)\n- Export: PostgreSQL → S3 (daily)\n\nMonitoring & Logging:\n- Application logs: CloudWatch\n- APM: New Relic\n- Metrics: Prometheus + Grafana\n- Alerts: PagerDuty\n- Uptime monitoring: StatusPage\n\nDatabase Schema:\n- users: id, email, name, role\n- sessions: id, user_id, token, created_at, expires_at\n- data: id, user_id, content, created_at\n\nAPI Endpoints (sample):\n- POST /api/auth/login\n- GET /api/users/{id}\n- POST /api/data\n- GET /api/data?limit=10&offset=0",
+  "tags": [
+    "architecture",
+    "system-design",
+    "technical"
+  ],
+  "type": "technical",
+  "date": "2024-02-20"
+}

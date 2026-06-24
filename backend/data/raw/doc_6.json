@@ -1,0 +1,11 @@
+{
+  "title": "Common Questions & Troubleshooting",
+  "content": "Q: How do I reset my password?\nA: Visit https://dashboard.company.com/reset-password or contact IT support.\n\nQ: I can't connect to the VPN.\nA: Ensure Cisco AnyConnect is installed. Try: cisco-anyconnect vpn.company.com. Contact IT if issue persists.\n\nQ: How do I report a bug?\nA: File an issue on Jira (jira.company.com) with 'BUG' label and priority.\n\nQ: Can I access production logs?\nA: Only ops team has direct access. Submit request via #prod-support in Slack.\n\nQ: How often are backups taken?\nA: Daily at 2 AM UTC. Retention: 30 days. Recovery time: ~1 hour.\n\nQ: What's the incident response procedure?\nA: Critical: Page on-call via Pagerduty. Non-critical: File ticket on Jira.\n\nQ: How do I request a new tool/license?\nA: Submit to ops@company.com with business justification. Approval within 5 business days.\n\nQ: Where's the company culture handbook?\nA: See company.sharepoint.com/culture (access via SSO)",
+  "tags": [
+    "faq",
+    "troubleshooting",
+    "support"
+  ],
+  "type": "faq",
+  "date": "2024-03-10"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Team Directory & Contact Info",
+  "content": "Engineering Team:\n- Alice Johnson (CTO): alice.johnson@company.com | Slack: @alice\n- Bob Smith (Backend Lead): bob.smith@company.com | Ext: 2341\n- Carol White (Frontend Lead): carol.white@company.com | Slack: @carol\n- David Lee (DevOps): david.lee@company.com | On-call Sat-Sun\n\nProduct & Design:\n- Emma Davis (Product Manager): emma.davis@company.com\n- Frank Zhang (UX Designer): frank.zhang@company.com\n\nSupport:\n- General: support@company.com\n- HR: hr@company.com\n- IT: it@company.com\n- Finance: finance@company.com\n\nChats & Groups:\n- #engineering: Main channel\n- #deployments: Release updates\n- #random: Off-topic discussions\n- @devops-oncall: Incident response\n\nOffice Hours:\n- Engineering standup: 9 AM daily (Teams meeting)\n- Product sync: 3 PM Wed\n- All-hands: 4 PM Fri\n\nDepartments:\n- Engineering: 15 people\n- Product: 3 people\n- Design: 2 people\n- Operations: 4 people",
+  "tags": [
+    "team",
+    "contact",
+    "directory"
+  ],
+  "type": "reference",
+  "date": "2024-03-01"
+}

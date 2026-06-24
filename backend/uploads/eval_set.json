@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What is the leave policy?",
+    "expected_keywords": [
+      "20 days",
+      "paid annual leave",
+      "3 days in advance"
+    ]
+  },
+  {
+    "question": "How do employees submit leave requests?",
+    "expected_keywords": [
+      "HR portal",
+      "apply"
+    ]
+  },
+  {
+    "question": "What is included in onboarding?",
+    "expected_keywords": [
+      "documents",
+      "checklist"
+    ]
+  },
+  {
+    "question": "How does reimbursement work?",
+    "expected_keywords": [
+      "approval",
+      "expense"
+    ]
+  },
+  {
+    "question": "What is the work from home policy?",
+    "expected_keywords": [
+      "remote",
+      "approval"
+    ]
+  }
+]
